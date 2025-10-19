@@ -1,6 +1,7 @@
 import { NextRequest, NextResponse } from 'next/server';
 import { promises as fs } from 'fs';
 import path from 'path';
+import { getJob } from '../../../../../src/utils/job-store';
 
 export async function GET(
   request: NextRequest,
@@ -10,7 +11,7 @@ export async function GET(
     const { jobId, format } = params;
 
     // Get job to find file paths
-    const job = global.jobStore?.get(jobId);
+    const job = await getJob(jobId);
 
     if (!job || !job.files) {
       return NextResponse.json({ error: 'Files not found' }, { status: 404 });

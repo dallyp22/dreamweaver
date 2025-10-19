@@ -1,17 +1,7 @@
 import { NextRequest, NextResponse } from 'next/server';
 import { generateEdition } from '../../../src/agents/A0-orchestrator';
 import { v4 as uuidv4 } from 'uuid';
-
-// Global job store shared across API routes
-declare global {
-  var jobStore: Map<string, any>;
-}
-
-if (!global.jobStore) {
-  global.jobStore = new Map();
-}
-
-const jobs = global.jobStore;
+import { saveJob, updateJob } from '../../../src/utils/job-store';
 
 export async function POST(request: NextRequest) {
   try {
@@ -25,7 +15,7 @@ export async function POST(request: NextRequest) {
     const jobId = uuidv4();
 
     // Initialize job
-    jobs.set(jobId, {
+    await saveJob(jobId, {
       jobId,
       city,
       status: 'running',
@@ -37,38 +27,34 @@ export async function POST(request: NextRequest) {
     // Start generation in background
     generateEdition({
       city,
-      onProgress: (update) => {
-        const job = jobs.get(jobId);
-        if (job) {
-          job.progress = update.progress;
-          job.message = update.message;
-          jobs.set(jobId, job);
-        }
+      onProgress: async (update) => {
+        await updateJob(jobId, {
+          progress: update.progress,
+          message: update.message
+        });
       }
-    }).then((result) => {
-      const job = jobs.get(jobId);
-      if (job) {
-        if (result.success) {
-          job.status = 'completed';
-          job.progress = 100;
-          job.message = 'Generation complete!';
-          job.files = result.files;
-          job.endTime = new Date().toISOString();
-        } else {
-          job.status = 'failed';
-          job.error = result.error;
-          job.endTime = new Date().toISOString();
-        }
-        jobs.set(jobId, job);
+    }).then(async (result) => {
+      if (result.success) {
+        await updateJob(jobId, {
+          status: 'completed',
+          progress: 100,
+          message: 'Generation complete!',
+          files: result.files,
+          endTime: new Date().toISOString()
+        });
+      } else {
+        await updateJob(jobId, {
+          status: 'failed',
+          error: result.error,
+          endTime: new Date().toISOString()
+        });
       }
-    }).catch((error) => {
-      const job = jobs.get(jobId);
-      if (job) {
-        job.status = 'failed';
-        job.error = error.message;
-        job.endTime = new Date().toISOString();
-        jobs.set(jobId, job);
-      }
+    }).catch(async (error) => {
+      await updateJob(jobId, {
+        status: 'failed',
+        error: error.message,
+        endTime: new Date().toISOString()
+      });
     });
 
     return NextResponse.json({ jobId });
