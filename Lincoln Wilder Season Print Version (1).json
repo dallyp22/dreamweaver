@@ -1,0 +1,2675 @@
+{
+  "edition": "Lincoln, Nebraska Edition",
+  "totalWeeks": 52,
+  "weeks": [
+    {
+      "week": 1,
+      "title": "Warm Beginnings",
+      "placeToVisit": "The Mill Coffee & Tea in the Haymarket - grab a warm drink,\nthen take a short stroll around the historic district if weather allows",
+      "activities": [
+        {
+          "name": "Cozy Sensory Bin",
+          "description": "Add scarfs, mittens and other soft objects"
+        },
+        {
+          "name": "Hot Cocoa Station",
+          "description": "Stir & Pour pretend hot drinks"
+        },
+        {
+          "name": "Warm Reading Nook",
+          "description": "Create a soft space for reading favorite books"
+        },
+        {
+          "name": "Slipper Shuffle",
+          "description": ""
+        },
+        {
+          "name": "Move about & dance to gentle music",
+          "description": ""
+        }
+      ],
+      "song": {
+        "title": "",
+        "artist": "Louis Armstrong"
+      },
+      "book": {
+        "title": "In the Snow: Who's Been Here?",
+        "author": "Lindsay Barrett George"
+      },
+      "recipe": {
+        "name": "Cinnamon Milk",
+        "ingredients": [
+          "2 cups milk (dairy or non-dairy)",
+          "2 tablespoons honey or maple syrup",
+          "½ teaspoon ground cinnamon",
+          "½ teaspoon vanilla extract"
+        ],
+        "instructions": "Warm the milk gently on the stove (or microwave in short bursts). Stir in honey, cinnamon, and vanilla until smooth. Pour into mugs and enjoy together while snuggling under a blanket.",
+        "toddlerTask": "Let your little barista sprinkle the cinnamon on top and help stir the warm milk into a cozy winter drink!"
+      }
+    },
+    {
+      "week": 2,
+      "title": "Nebraska State",
+      "placeToVisit": "Nebraska State Capitol - Explore the Architecture",
+      "activities": [
+        {
+          "name": "Tower Building",
+          "description": ""
+        },
+        {
+          "name": "Stack blocks to make tall towers like the Capitol",
+          "description": ""
+        },
+        {
+          "name": "Nebraska Symbol Hunt",
+          "description": "Find and draw state symbols (meadowlark, cottonwood)"
+        },
+        {
+          "name": "Dome Art",
+          "description": "Paint paper plates gold to make Capitol domes"
+        }
+      ],
+      "song": {
+        "title": "",
+        "artist": "Sawyer Brown"
+      },
+      "book": {
+        "title": "N is for Nebraska",
+        "author": "Chelsie Turner"
+      },
+      "recipe": {
+        "name": "Cornhusker Cookies",
+        "ingredients": [
+          "1 cup butter, softened",
+          "1 cup sugar",
+          "2 eggs",
+          "2 cups flour",
+          "1 tsp vanilla",
+          "½ cup cornmeal",
+          "Yellow food coloring (optional)"
+        ],
+        "instructions": "Cream butter and sugar. Add eggs and vanilla. Mix in flour and cornmeal. Add yellow coloring if desired. Roll into logs, chill 1 hour. Slice and bake at 350°F for 10-12 minutes. Decorate with yellow frosting.",
+        "toddlerTask": "Let your little baker pour in the sugar and add the sweetest touch by decorating the cookies with frosting!"
+      }
+    },
+    {
+      "week": 3,
+      "title": "Snowflakes & Crystals",
+      "placeToVisit": "Morrill Hall-\n\nExplore the sparkling crystal and mineral displays, or bundle up for\nan outdoor frost walk to spot nature’s own icy patterns",
+      "activities": [
+        {
+          "name": "Salt Crystal Gardens",
+          "description": ""
+        },
+        {
+          "name": "Grow crystals on string in salt water",
+          "description": ""
+        },
+        {
+          "name": "Ice Sun Catchers",
+          "description": ""
+        },
+        {
+          "name": "Freeze natural items in ice with string for hanging",
+          "description": ""
+        },
+        {
+          "name": "Snowflake Symmetry",
+          "description": "Cut paper snowflakes and study patterns"
+        },
+        {
+          "name": "Frozen Bubble Art",
+          "description": ""
+        },
+        {
+          "name": "Blow bubbles outside in cold weather",
+          "description": ""
+        }
+      ],
+      "song": {
+        "title": "Crystal Blue Persuasion",
+        "artist": "Tommy James & The Shondells"
+      },
+      "book": {
+        "title": "Snowflake Bentley",
+        "author": "Jacqueline Briggs Martin"
+      },
+      "recipe": {
+        "name": "Crystal Rock Candy",
+        "ingredients": [
+          "3 cups sugar",
+          "1 cup water",
+          "Food coloring",
+          "String and pencil",
+          "Clean jar"
+        ],
+        "instructions": "Bring the water to a boil in a saucepan. Slowly add the sugar, stirring until it is completely dissolved. Add a few drops of food coloring for a magical touch. Tie a piece of string to a pencil and rest the pencil across the top of a clean jar so the string hangs down inside. Carefully pour the hot syrup into the jar, covering the string. Place the jar somewhere it can sit undisturbed for 3–7 days, watching as sugar crystals slowly form on the string.",
+        "toddlerTask": "Let your little scientist pick the color and then peek each day to watch the crystals grow like magic!"
+      }
+    },
+    {
+      "week": 4,
+      "title": "Owls & Night Skies",
+      "placeToVisit": "Pioneers Park Nature Center - The Prairie Building",
+      "activities": [
+        {
+          "name": "Owl Pellet Exploration",
+          "description": ""
+        },
+        {
+          "name": "Dissect (replica) pellets to find bones",
+          "description": ""
+        },
+        {
+          "name": "Night Sky Viewer",
+          "description": "Make constellation viewers with cardboard tubes"
+        },
+        {
+          "name": "Silent Flying Game",
+          "description": "Practice moving quietly like owls"
+        },
+        {
+          "name": "Owl Call Practice",
+          "description": ""
+        },
+        {
+          "name": "Learn different owl hoots",
+          "description": ""
+        }
+      ],
+      "song": {
+        "title": "Moonshadow",
+        "artist": "Yusef/ Cat Stevens"
+      },
+      "book": {
+        "title": "Owl Moon",
+        "author": "Jane Yolen"
+      },
+      "recipe": {
+        "name": "Owl's Nest Cupcakes",
+        "ingredients": [
+          "For decorating:",
+          "1 ½ cups flour",
+          "Chocolate frosting (store-",
+          "1 cup sugar",
+          "bought or homemade)",
+          "½ cup unsweetened cocoa powder",
+          "Shredded wheat cereal (for",
+          "1 ½ teaspoons baking powder",
+          "nest texture)",
+          "½ teaspoon baking soda",
+          "Candy eyes",
+          "½ teaspoon salt",
+          "Orange candy corn (for beaks)",
+          "2 eggs",
+          "Optional: Oreo cookie halves",
+          "½ cup vegetable oil (or melted butter)",
+          "(for ears)",
+          "1 cup milk (or buttermilk)",
+          "1 teaspoon vanilla extract"
+        ],
+        "instructions": "Preheat the oven to 350°F and line a muffin tin with paper liners. Whisk the dry ingredients together in one bowl and the wet ingredients in another, then combine gently until just blended. Fill liners about ⅔ full and bake for 18–20 minutes, until a toothpick comes out clean. Let cool completely before decorating. Frost each cupcake with chocolate frosting, press shredded wheat around the edges for a “nest,” add candy eyes and a candy corn beak, and finish with Oreo halves for ears if desired.",
+        "toddlerTask": ""
+      }
+    },
+    {
+      "week": 5,
+      "title": "Warmth & Light",
+      "placeToVisit": "Lincoln Children’s Museum",
+      "activities": [
+        {
+          "name": "Beeswax Candle Rolling",
+          "description": "Roll sheets of beeswax into candles"
+        },
+        {
+          "name": "Shadow Theater",
+          "description": "Use flashlights to make shadow stories"
+        },
+        {
+          "name": "Warm/Cool Color Sort",
+          "description": ""
+        },
+        {
+          "name": "Trace shadows of objects",
+          "description": ""
+        },
+        {
+          "name": "Cozy Corner Building",
+          "description": "Create reading nook with lights"
+        }
+      ],
+      "song": {
+        "title": "Good Day Sunshine",
+        "artist": "The Beatles"
+      },
+      "book": {
+        "title": "You Are Light",
+        "author": "Aaron Becker"
+      },
+      "recipe": {
+        "name": "Sunshine Smoothies",
+        "ingredients": [
+          "1 ripe banana",
+          "1 orange, peeled and segmented (or ½ cup orange juice)",
+          "½ cup plain or vanilla yogurt",
+          "½ cup frozen pineapple chunks",
+          "½ cup ice cubes",
+          "1 teaspoon honey or maple syrup (optional)",
+          "Splash of water or milk (if needed for blending)"
+        ],
+        "instructions": "Add the banana, orange segments, yogurt, frozen pineapple, ice cubes, and honey (if using) into a blender. Blend until smooth and creamy. If the smoothie is too thick, add a splash of water or milk to reach the desired consistency. Pour into cups and enjoy immediately—sunshine in a glass!",
+        "toddlerTask": "Let your toddler peel the banana and drop the fruit into the blender (with supervision). They’ll love pressing the “blend” button with your help and watching the smoothie swirl into yellow sunshine!"
+      }
+    },
+    {
+      "week": 6,
+      "title": "Railroad History",
+      "placeToVisit": "Historic Haymarket District/Iron Horse Park",
+      "activities": [
+        {
+          "name": "Train Track Patterns",
+          "description": "Use craft sticks to make railroad patterns"
+        },
+        {
+          "name": "Conductor Role Play",
+          "description": "Make tickets and play train conductor"
+        },
+        {
+          "name": "Railroad Spike Counting",
+          "description": "Count and sort different sized bolts/screws"
+        },
+        {
+          "name": "Box Car Train",
+          "description": ""
+        },
+        {
+          "name": "Connect cardboard boxes for train cars",
+          "description": ""
+        }
+      ],
+      "song": {
+        "title": "",
+        "artist": "The O’Jays"
+      },
+      "book": {
+        "title": "Locomotive",
+        "author": "Brian Floca"
+      },
+      "recipe": {
+        "name": "Railroad Track Snack Mix",
+        "ingredients": [
+          "2 cups pretzel sticks (train tracks)",
+          "1 cup mini marshmallows (steam puffs)",
+          "1 cup chocolate chips (coal)",
+          "1 cup raisins or dried cranberries (railroad lantern lights)",
+          "2 cups Cheerios or square cereal (cargo)"
+        ],
+        "instructions": "In a large bowl, combine the pretzel sticks, marshmallows, chocolate chips, raisins or dried cranberries, and cereal. Gently toss until everything is mixed evenly. Scoop into small cups or containers for serving, and enjoy this train-inspired treat together.",
+        "toddlerTask": "Let your little conductor sprinkle each ingredient onto the ‘tracks’ and give it a big train whistle stir!"
+      }
+    },
+    {
+      "week": 7,
+      "title": "Kindness & Hearts",
+      "placeToVisit": "Local United States Post Office - Mail Valentines to loved ones",
+      "activities": [
+        {
+          "name": "Heart Garland Making",
+          "description": ""
+        },
+        {
+          "name": "String paper hearts together",
+          "description": ""
+        },
+        {
+          "name": "Kindness Rocks",
+          "description": "Paint rocks with kind messages to hide"
+        },
+        {
+          "name": "Love Letter Station",
+          "description": ""
+        },
+        {
+          "name": "Write/draw notes to family",
+          "description": ""
+        },
+        {
+          "name": "Color Sorting Hearts",
+          "description": "Use red, pink, white objects"
+        }
+      ],
+      "song": {
+        "title": "",
+        "artist": "Nat King Cole"
+      },
+      "book": {
+        "title": "Love",
+        "author": "Matt de la Peña"
+      },
+      "recipe": {
+        "name": "Sweetheart Sandwiches",
+        "ingredients": [
+          "Bread slices",
+          "Cream cheese or nut butter",
+          "Strawberry jam",
+          "Heart-shaped cookie cutter"
+        ],
+        "instructions": "Use a heart-shaped cookie cutter to cut the bread into sweet little hearts. Spread one heart with cream cheese or nut butter and another with strawberry jam, then gently sandwich them together. Make several and enjoy as a simple tea party treat!",
+        "toddlerTask": "Let your little helper press the cookie cutter into the bread and build a plate of love-filled sandwiches for the whole family!"
+      }
+    },
+    {
+      "week": 8,
+      "title": "Hibernation & Rest",
+      "placeToVisit": "Lincoln City Libraries - snuggle into a quiet corner, pick out cozy\nwinter reads, and enjoy a restful story time together",
+      "activities": [
+        {
+          "name": "Hibernation Hide-and-Seek",
+          "description": "Find stuffed animals \"hibernating\""
+        },
+        {
+          "name": "Winter Den Building",
+          "description": "Make cozy dens with blankets"
+        },
+        {
+          "name": "Sleepy Animal Yoga",
+          "description": ""
+        },
+        {
+          "name": "Gentle stretching poses",
+          "description": ""
+        },
+        {
+          "name": "Dream Journal Drawing",
+          "description": "Draw winter dreams"
+        }
+      ],
+      "song": {
+        "title": "",
+        "artist": "Ella Fitzgerald & Louis Armstrong"
+      },
+      "book": {
+        "title": "Bear Snores On",
+        "author": "Karma Wilson"
+      },
+      "recipe": {
+        "name": "Banana Bear Pancakes",
+        "ingredients": [
+          "1 cup pancake mix (or your favorite homemade recipe)",
+          "1 ripe banana",
+          "½ cup milk",
+          "1 egg",
+          "Butter or oil for cooking",
+          "1 banana (sliced into rounds) – for bear ears and snout",
+          "A few blueberries or mini chocolate chips – for eyes and nose"
+        ],
+        "instructions": "In a bowl, mash one ripe banana. Add the pancake mix, milk, and egg, and stir until just combined. Heat a skillet over medium heat and grease lightly. Pour batter into the pan to make small round pancakes—one large for the bear face, and two smaller for ears. Cook until bubbles form and edges are set, then flip and cook until golden. Arrange one big pancake on a plate, two banana slices at the top for ears, one banana slice in the center for the snout, and add blueberries or mini chocolate chips for eyes and nose. Serve warm with syrup!",
+        "toddlerTask": "Let your toddler help mash the banana and decorate the bear face—a fun way to practice sequencing, motor skills, and storytelling through food."
+      }
+    },
+    {
+      "week": 9,
+      "title": "Winter Baking",
+      "placeToVisit": "Goldenrod Pastries - or a local bakery of your choice",
+      "activities": [
+        {
+          "name": "Pretend Bakery",
+          "description": ""
+        },
+        {
+          "name": "Set up a play shop with dough and tools",
+          "description": ""
+        },
+        {
+          "name": "Recipe Card Making",
+          "description": ""
+        },
+        {
+          "name": "Illustrate favorite family recipes",
+          "description": ""
+        },
+        {
+          "name": "Measuring Match",
+          "description": ""
+        },
+        {
+          "name": "Compare scoops and spoons",
+          "description": ""
+        },
+        {
+          "name": "Decorating Station",
+          "description": "Use sprinkles, colors, or safe icing"
+        }
+      ],
+      "song": {
+        "title": "",
+        "artist": "The Archies"
+      },
+      "book": {
+        "title": "Thunder Cake",
+        "author": "Patricia Polacco"
+      },
+      "recipe": {
+        "name": "Mini Muffin Sampler",
+        "ingredients": [
+          "Mix-In Options (choose 2–3):",
+          "Base Batter Ingredients:",
+          "¼ cup mini chocolate chips",
+          "¼ cup blueberries",
+          "¼ cup mashed banana",
+          "¼ cup grated carrot",
+          "¼ cup chopped apples and",
+          "cinnamon",
+          "¼ cup raisins or dried cranberries",
+          "2 cups all-purpose flour",
+          "½ cup sugar",
+          "1 tablespoon baking powder",
+          "½ teaspoon salt",
+          "1 cup milk",
+          "1 egg",
+          "¼ cup melted butter or oil",
+          "1 teaspoon vanilla extract"
+        ],
+        "instructions": "Preheat oven to 375°F (190°C) and grease or line a mini muffin tin. In a large bowl, whisk together the dry ingredients. In another bowl, whisk milk, egg, butter, and vanilla. Pour the wet mixture into the dry and stir until just combined. Divide the batter into separate bowls and stir a different mix-in into each one. Spoon into mini muffin cups, filling each about ¾ full. Bake for 10–12 minutes or until golden and a toothpick comes out clean. Let cool slightly and serve a sampler plate of different flavors!",
+        "toddlerTask": "Let your toddler choose and mix in the toppings for each bowl—great for decision-making, sensory fun, and ownership in baking!"
+      }
+    },
+    {
+      "week": 10,
+      "title": "Signs of Spring",
+      "placeToVisit": "Sunken Gardens",
+      "activities": [
+        {
+          "name": "Spring Hunt Bingo",
+          "description": "Find buds, birds, bugs"
+        },
+        {
+          "name": "Spring Scavenger Hunt",
+          "description": "Find buds, returning birds, melting snow"
+        },
+        {
+          "name": "Weather Chart",
+          "description": ""
+        },
+        {
+          "name": "Track daily temperature changes",
+          "description": ""
+        },
+        {
+          "name": "Mud Investigation",
+          "description": ""
+        },
+        {
+          "name": "Explore thawing ground textures",
+          "description": ""
+        }
+      ],
+      "song": {
+        "title": "",
+        "artist": "Cat Stevens"
+      },
+      "book": {
+        "title": "And Then It’s Spring",
+        "author": "Julie Fogliano"
+      },
+      "recipe": {
+        "name": "Spring Green Smoothie",
+        "ingredients": [
+          "1 cup spinach",
+          "1 banana",
+          "½ cup pineapple",
+          "1 cup apple juice",
+          "½ cup yogurt",
+          "1 tbsp honey"
+        ],
+        "instructions": "Place the spinach, banana, pineapple, apple juice, yogurt, and honey in a blender. Blend until smooth and creamy, adding a few ice cubes if you’d like a colder, thicker drink. Pour into cups and enjoy this refreshing burst of springtime energy.",
+        "toddlerTask": "Let your little gardener drop the fruit into the blender and watch the smoothie swirl into bright spring green! Amid the renewed energy that the arrival of spring brings, make it a priority to slow your family's pace. Notice the tender buds emerging on trees, blossoms unfolding into flowers, and the chorus of birdsong filling the air. Carve out time in your days to linger outside together after winter's long indoor months. Take walks to admire the beauty of the season, planting your senses firmly in the present."
+      }
+    },
+    {
+      "week": 11,
+      "title": "Prairie Soil & Worms",
+      "placeToVisit": "Larsen Tractor Test & Power Museum",
+      "activities": [
+        {
+          "name": "Worm Exploration Bin",
+          "description": "Watch worms work in clear container"
+        },
+        {
+          "name": "Make a Mud Pie",
+          "description": "Add pretend toppings"
+        },
+        {
+          "name": "Compost Sorting",
+          "description": ""
+        },
+        {
+          "name": "Learn what can/cannot compost",
+          "description": ""
+        },
+        {
+          "name": "Soil Layers Jar",
+          "description": ""
+        },
+        {
+          "name": "Layer different types of soil and sand",
+          "description": ""
+        }
+      ],
+      "song": {
+        "title": "",
+        "artist": "John Denver"
+      },
+      "book": {
+        "title": "Diary of a Worm",
+        "author": "Doreen Cronin"
+      },
+      "recipe": {
+        "name": "Dirt Cake Cups",
+        "ingredients": [
+          "1 package Oreos, crushed",
+          "8 oz cream cheese, softened",
+          "¼ cup butter, softened",
+          "1 cup powdered sugar",
+          "2 packages instant chocolate pudding",
+          "3 cups milk",
+          "12 oz whipped topping",
+          "Gummy worms"
+        ],
+        "instructions": "In a large bowl, beat the cream cheese, butter, and powdered sugar until smooth. In another bowl, prepare the pudding with the milk, then fold in the whipped topping. To assemble, layer the crushed cookies, pudding mixture, and more cookies in clear cups so it looks like soil. Top each with gummy worms peeking out of the “dirt.” Chill until ready to serve.",
+        "toddlerTask": "Let your little gardener sprinkle the cookie “dirt” into the cups and tuck the gummy worms into their new soil homes!"
+      }
+    },
+    {
+      "week": 12,
+      "title": "Dinosaur Discoveries",
+      "placeToVisit": "Morrill Hall",
+      "activities": [
+        {
+          "name": "Dino Dig Sensory Bin",
+          "description": ""
+        },
+        {
+          "name": "Hide bones in sand to excavate",
+          "description": ""
+        },
+        {
+          "name": "Dinosaur Footprint Stamps",
+          "description": "Make prints in play dough"
+        },
+        {
+          "name": "Fossil Making",
+          "description": "Press items into salt dough"
+        },
+        {
+          "name": "Dinosaur Movement Game",
+          "description": ""
+        },
+        {
+          "name": "Stomp, fly, swim like different dinosaurs",
+          "description": ""
+        }
+      ],
+      "song": {
+        "title": "Dinosaur Song",
+        "artist": "Johnny Cash"
+      },
+      "book": {
+        "title": "ABCs of Dinosaurs: A Powerfully Prehistoric Alphabet",
+        "author": "Sienna Nightingale"
+      },
+      "recipe": {
+        "name": "Dino Dig Pudding Cups",
+        "ingredients": [
+          "2 cups cold milk (dairy or non-dairy)",
+          "1 (3.9 oz) box instant chocolate pudding mix",
+          "1 (8 oz) tub whipped topping (or coconut whip)",
+          "2 cups crushed chocolate cookies (for “dirt”)",
+          "Gummy dinosaurs, or small dino-shaped fruit snacks",
+          "Clear plastic cups"
+        ],
+        "instructions": "Whisk pudding mix with milk until thickened. Fold in whipped topping to make it fluffy. Spoon pudding into cups, filling about ¾ full. Sprinkle crushed cookies on top for soil. Bury gummy dinosaurs inside the pudding and leave a few peeking out.",
+        "toddlerTask": "Give children small spoons or clean brushes to “excavate” their dinos, just like a real dig site. Talk about how paleontologists carefully uncover fossils in layers of earth."
+      }
+    },
+    {
+      "week": 13,
+      "title": "Garden Blooms",
+      "placeToVisit": "Sunken Gardens",
+      "activities": [
+        {
+          "name": "Flower Color Wheel",
+          "description": ""
+        },
+        {
+          "name": "Arrange petals by color in a circle",
+          "description": ""
+        },
+        {
+          "name": "Garden Map Making",
+          "description": "Draw simple maps of garden paths"
+        },
+        {
+          "name": "Flower Part Puzzle",
+          "description": ""
+        },
+        {
+          "name": "Learn stem, petals, leaves with felt pieces",
+          "description": ""
+        },
+        {
+          "name": "Butterfly Dance",
+          "description": ""
+        },
+        {
+          "name": "Flutter between flower stations",
+          "description": ""
+        }
+      ],
+      "song": {
+        "title": "Octopus's Garden",
+        "artist": "The Beatles"
+      },
+      "book": {
+        "title": "Plant the Tiny Seed",
+        "author": "Christie Matheson"
+      },
+      "recipe": {
+        "name": "Garden Bloom",
+        "ingredients": [
+          "2 cups yogurt (plain, vanilla, or plant-based)",
+          "1 cup granola or crushed graham crackers",
+          "2 cups mixed berries (strawberries, blueberries, raspberries)",
+          "1–2 tsp honey or maple syrup (optional)",
+          "Edible flowers (pansies, violets, or nasturtiums), washed and patted dry"
+        ],
+        "instructions": "In clear cups, layer yogurt, granola, and berries to resemble blooming garden layers. Repeat layers until the cup is full. Drizzle a little honey or maple syrup on top. Decorate the top with edible flowers for a “blooming garden” effect.",
+        "toddlerTask": "Let kids help layer the ingredients like planting seeds. They can arrange the edible flowers as “garden blooms” on top before eating."
+      }
+    },
+    {
+      "week": 14,
+      "title": "Spring on the Farm",
+      "placeToVisit": "The Little Red Farm — join Barnyard Storytime (every 2nd\nWednesday of the month) if your week lines up, or plan a farm visit\non another day to meet the animals",
+      "activities": [
+        {
+          "name": "Baby Animal Matching",
+          "description": "Match babies to parent animals"
+        },
+        {
+          "name": "Egg Collecting Game",
+          "description": ""
+        },
+        {
+          "name": "Hunt for plastic eggs in hay",
+          "description": ""
+        },
+        {
+          "name": "Tractor Tire Painting",
+          "description": "Roll toy tractors through paint"
+        },
+        {
+          "name": "Farm Sound Symphony",
+          "description": "Make animal sounds in order"
+        }
+      ],
+      "song": {
+        "title": "Thank God I’m a Country Boy",
+        "artist": "John Denver"
+      },
+      "book": {
+        "title": "Big Red Barn",
+        "author": "Margaret Wise Brown"
+      },
+      "recipe": {
+        "name": "Farm Garden Parfaits",
+        "ingredients": [
+          "2 cups vanilla or plain yogurt (can be plant-based)",
+          "1 cup granola or crushed graham crackers (for “soil”)",
+          "2 cups mixed berries (strawberries, blueberries, raspberries – “flowers”)",
+          "1 banana, sliced into rounds (“sun disks”)",
+          "Small farm animal gummies or chocolate animal shapes (optional)"
+        ],
+        "instructions": "In clear cups, layer granola or crushed graham crackers at the bottom to look like “soil.” Add a layer of yogurt on top. Arrange slices of banana and berries on the yogurt to resemble a sunny garden. Repeat layers if the cup is tall enough. Top with a few farm animal gummies or chocolate shapes to represent animals in the farm garden.",
+        "toddlerTask": "Let your toddler arrange the “flowers” and “sun” themselves. They can tell a little farm story as they build each layer — like placing the animals in the field."
+      }
+    },
+    {
+      "week": 15,
+      "title": "Weather Watchers",
+      "placeToVisit": "UNL Weather Station",
+      "activities": [
+        {
+          "name": "Wind Sock Making",
+          "description": "Decorate and hang to watch wind"
+        },
+        {
+          "name": "Cloud Identification Cards",
+          "description": "Match cloud types"
+        },
+        {
+          "name": "Rain Gauge Creation",
+          "description": ""
+        },
+        {
+          "name": "Measure rainfall in decorated jar",
+          "description": ""
+        },
+        {
+          "name": "Storm in a Jar",
+          "description": ""
+        },
+        {
+          "name": "Layer liquids to show weather patterns",
+          "description": ""
+        }
+      ],
+      "song": {
+        "title": "Raindrops Keep Fallin’ on My Head",
+        "artist": "B.J. Thomas"
+      },
+      "book": {
+        "title": "This Raindrop: Has a Billion Stories to Tell",
+        "author": "Linda Ragsdale"
+      },
+      "recipe": {
+        "name": "Stormy Lemonade",
+        "ingredients": [
+          "2 cups lemonade (store-bought or homemade)",
+          "1 cup sparkling water (for fizz, optional)",
+          "Blue or purple fruit juice (like blueberry or grape) – for “storm clouds”",
+          "Ice cubes",
+          "Mini umbrella picks or rainbow straws (optional, for fun)"
+        ],
+        "instructions": "Fill clear glasses ¾ full with lemonade and ice. Slowly pour a small amount of blueberry or grape juice over the top to create a “stormy cloud” effect — the juice will swirl through the lemonade like clouds in the sky. Add sparkling water if you want fizz to mimic raindrops. Optional: top with a straw or mini umbrella for a fun weather twist.",
+        "toddlerTask": "Let your toddler pour the “storm clouds” themselves to watch how the colors swirl. Talk about different types of weather — clouds, rain, and sun — as they enjoy their drink"
+      }
+    },
+    {
+      "week": 16,
+      "title": "Rainbow & Light Play",
+      "placeToVisit": "Lincoln Children's Museum",
+      "activities": [
+        {
+          "name": "Prism Exploration",
+          "description": "Make rainbows with crystals and sunlight"
+        },
+        {
+          "name": "Color Mixing Station",
+          "description": "Mix colored water in clear containers"
+        },
+        {
+          "name": "Rainbow Hunt",
+          "description": "Find rainbow colors in nature"
+        },
+        {
+          "name": "Mirror Reflection Art",
+          "description": "Paint on mirrors with washable paint"
+        }
+      ],
+      "song": {
+        "title": "Over the Rainbow",
+        "artist": "Judy Garland"
+      },
+      "book": {
+        "title": "A Rainbow of My Own",
+        "author": "Don Freeman"
+      },
+      "recipe": {
+        "name": "Rainbow Fruit Skewers",
+        "ingredients": [
+          "Strawberries or raspberries (red)",
+          "Mandarin or mango pieces (orange)",
+          "Pineapple or banana slices (yellow)",
+          "Kiwi slices (green)",
+          "Blueberries (blue)",
+          "Purple grapes or blackberries (purple)",
+          "Wooden skewers or straws",
+          "½ cup yogurt (plain, vanilla, or coconut) for dipping"
+        ],
+        "instructions": "Wash and cut all fruit into bite-sized pieces. Let kids thread the fruit onto skewers in rainbow order. Serve with a small cup of yogurt for dipping. Optional: place skewers upright in a glass for a “standing rainbow display.",
+        "toddlerTask": "Let your toddler arrange the colors in rainbow order, learning about light and color blending. Talk about how sunlight creates rainbows when it passes through water droplets — connect the rainbow colors to light play."
+      }
+    },
+    {
+      "week": 17,
+      "title": "Garden Planting",
+      "placeToVisit": "UNL East Campus - Backyard Farmer Garden",
+      "activities": [
+        {
+          "name": "Seed Starting Station",
+          "description": ""
+        },
+        {
+          "name": "Plant seeds in egg cartons",
+          "description": ""
+        },
+        {
+          "name": "Garden Planning Map",
+          "description": "Draw where plants will go"
+        },
+        {
+          "name": "Plant Growth Chart",
+          "description": ""
+        },
+        {
+          "name": "Measure and record growth",
+          "description": ""
+        },
+        {
+          "name": "Garden Tool Exploration",
+          "description": ""
+        },
+        {
+          "name": "Learn safe use of child-sized tools",
+          "description": ""
+        }
+      ],
+      "song": {
+        "title": "Garden Song",
+        "artist": "David Mallett"
+      },
+      "book": {
+        "title": "A Seed Is Sleepy",
+        "author": "Dianna Hutts Aston & Sylvia Long"
+      },
+      "recipe": {
+        "name": "Compost Smoothie",
+        "ingredients": [
+          "1 ripe banana",
+          "½ apple (peel on, chopped)",
+          "Handful of spinach or kale",
+          "½ cup frozen berries or leftover fruit",
+          "1 tablespoon chia or flax seeds (optional)",
+          "1 cup water or milk (dairy or non-dairy)",
+          "Optional: a dollop of yogurt or splash of orange juice"
+        ],
+        "instructions": "Add all ingredients to a blender and blend until smooth. If too thick, add a splash more liquid. Pour into cups and enjoy your colorful, zero-waste smoothie!",
+        "toddlerTask": "Let your toddler drop the fruit into the blender and press the “blend” button (with your help)—a great way to practice kitchen skills and talk about food scraps and composting!"
+      }
+    },
+    {
+      "week": 18,
+      "title": "Pioneers & Homesteads",
+      "placeToVisit": "Homestead National Historical Park",
+      "activities": [
+        {
+          "name": "Butter Churning",
+          "description": ""
+        },
+        {
+          "name": "Shake cream in jar to make butter",
+          "description": ""
+        },
+        {
+          "name": "Log Cabin Building",
+          "description": "Use pretzel logs and peanut butter"
+        },
+        {
+          "name": "Pioneer Dress-Up",
+          "description": ""
+        },
+        {
+          "name": "Bonnets and suspenders role play",
+          "description": ""
+        },
+        {
+          "name": "Corn Husk Doll",
+          "description": "Make simple dolls from husks"
+        }
+      ],
+      "song": {
+        "title": "Home on the Range",
+        "artist": "Pete Seeger"
+      },
+      "book": {
+        "title": "Going West",
+        "author": "Laura Ingalls Wilder"
+      },
+      "recipe": {
+        "name": "Honey Cornbread Muffins",
+        "ingredients": [
+          "1 cup cornmeal",
+          "1 cup all-purpose flour",
+          "1 tablespoon baking powder",
+          "½ teaspoon salt",
+          "1 cup milk",
+          "¼ cup melted butter or oil",
+          "¼ cup honey",
+          "1 egg"
+        ],
+        "instructions": "Preheat the oven to 375°F and grease or line a muffin tin. In a large bowl, whisk together cornmeal, flour, baking powder, and salt. In a separate bowl, mix milk, melted butter, honey, and egg. Pour the wet mixture into the dry and stir just until combined. Spoon batter into muffin cups about ¾ full. Bake for 15–18 minutes or until golden and a toothpick comes out clean.",
+        "toddlerTask": "Let your toddler help pour the dry ingredients and stir the honey into the mix—a great sensory and motor-strengthening task!"
+      }
+    },
+    {
+      "week": 19,
+      "title": "Prairie Insects",
+      "placeToVisit": "Spring Creek Prairie Audubon Center",
+      "activities": [
+        {
+          "name": "Bug Hotel Building",
+          "description": ""
+        },
+        {
+          "name": "Stack twigs and leaves for insect homes",
+          "description": ""
+        },
+        {
+          "name": "Grasshopper Jumping Contest",
+          "description": ""
+        },
+        {
+          "name": "Measure how far kids can hop",
+          "description": ""
+        },
+        {
+          "name": "Insect Symmetry Art",
+          "description": "Fold and paint butterfly wings"
+        },
+        {
+          "name": "Bug Sound Orchestra",
+          "description": "Make clicking, buzzing, chirping sounds"
+        }
+      ],
+      "song": {
+        "title": "Glow Worm",
+        "artist": "The Mills Brothers"
+      },
+      "book": {
+        "title": "Bug Hotel",
+        "author": "Libby Walden"
+      },
+      "recipe": {
+        "name": "Buggy Trail Mix Cups",
+        "ingredients": [
+          "1 cup cereal (Cheerios, Chex, or a gluten-free option) – “dirt”",
+          "½ cup mini pretzel sticks – “twigs”",
+          "½ cup raisins or dried cranberries – “bugs”",
+          "½ cup chocolate chips – “rocks”",
+          "½ cup gummy worms or gummy bugs – “prairie life”",
+          "Clear cups"
+        ],
+        "instructions": "In each cup, layer cereal, pretzels, and chocolate chips to resemble prairie soil. Sprinkle in raisins or dried cranberries as “bugs.” Top with gummy worms or other gummy insects for a fun, colorful finish. Serve as a snack kids can dig into with a spoon.",
+        "toddlerTask": "Let your toddler build their own “prairie ecosystem” by layering ingredients themselves. Talk about different prairie insects — what they eat, where they live — as they explore their snack cups."
+      }
+    },
+    {
+      "week": 20,
+      "title": "Water Wonders",
+      "placeToVisit": "Holmes Lake",
+      "activities": [
+        {
+          "name": "Sink or Float Lab",
+          "description": ""
+        },
+        {
+          "name": "Test natural items in water",
+          "description": ""
+        },
+        {
+          "name": "Water Cycle in a Bag",
+          "description": "Create mini water cycle"
+        },
+        {
+          "name": "Stream Table Play",
+          "description": "Pour water through sand channels"
+        },
+        {
+          "name": "Ice Boat Races",
+          "description": ""
+        },
+        {
+          "name": "Sail ice cubes with toothpick sails",
+          "description": ""
+        }
+      ],
+      "song": {
+        "title": "Splish Splash",
+        "artist": "Bobby Darin"
+      },
+      "book": {
+        "title": "Over and Under the Pond",
+        "author": "Kate Messner"
+      },
+      "recipe": {
+        "name": "Lake Life Snack Cups",
+        "ingredients": [
+          "1 cup blue gelatin (or agar-agar for a vegetarian option) – “lake water”",
+          "1 cup water (for gelatin preparation)",
+          "Gummy fish or goldfish crackers – “lake creatures”",
+          "Small pretzel sticks – “logs or reeds”",
+          "Mini marshmallows – “clouds” or “rocks”",
+          "Clear plastic cups"
+        ],
+        "instructions": "Prepare blue gelatin according to package instructions. Pour a layer into clear cups and let it set slightly in the fridge (10–15 minutes). Add gummy fish, goldfish crackers, and small pretzel sticks to create a mini lake scene. Pour a thin layer of remaining gelatin to cover the fish lightly, or leave them visible at the top. Let fully set in the fridge before serving.",
+        "toddlerTask": "Have your toddler place the “lake creatures” and “logs” themselves to design their own local lake scene. Talk about animals that live in or around lakes — fish, birds, and insects — as they snack. SLOWING DOWN IN SUMMER As the days lengthen and the sunbleached afternoons stretch into balmy evenings, summer offers families a chance to put the brakes on the constant push and pull of modern life. Away from the clamor and from calendar pages crammed with to-dos, hobbies take the place of hustle and children gain the freedom to follow their curiosity. In this slower pace, simple summer enjoyments grow into lasting memories—a homemade ice pop savored on the front steps or the spark of a firefly blinking in the night. The season invites us to experience present-moment living, to look around with wonder, and to savor laidback days with our loved ones."
+      }
+    },
+    {
+      "week": 21,
+      "title": "Prairie Bison & Tracks",
+      "placeToVisit": "Pioneers Park Nature Center",
+      "activities": [
+        {
+          "name": "Bison Track Casting",
+          "description": "Make plaster casts of animal tracks"
+        },
+        {
+          "name": "Prairie Diorama",
+          "description": "Create a prairie scene with cotton and toy animals"
+        },
+        {
+          "name": "Heavy Walking Game",
+          "description": ""
+        },
+        {
+          "name": "Stomp like bison",
+          "description": ""
+        },
+        {
+          "name": "Track Matching Cards",
+          "description": "Match animals to their tracks"
+        }
+      ],
+      "song": {
+        "title": "Happy Trails",
+        "artist": "Roy Rogers"
+      },
+      "book": {
+        "title": "Buffalo Music",
+        "author": "Tracey E. Fern"
+      },
+      "recipe": {
+        "name": "Bison Tracks Snacks",
+        "ingredients": [
+          "6 chocolate sandwich cookies (Oreos or gluten-free alternative)",
+          "½ cup peanut butter, sunflower butter, or cream cheese (for filling)",
+          "Pretzel sticks (to make “hoof marks”)",
+          "Chocolate chips or raisins (to decorate the “track”)"
+        ],
+        "instructions": "Carefully twist sandwich cookies apart. Spread a little peanut/sunflower butter or cream cheese on each half. Press pretzel sticks into the spread to look like bison hoof tracks (two side-by-side marks). Add a chocolate chip or raisin in the middle if you’d like extra “muddy” details. Put the cookie halves back together or leave them open-faced to show the track design.",
+        "toddlerTask": ". Show pictures of real bison hoof tracks. Let them “stamp” their cookies into crushed graham crackers or cocoa powder “dirt” to make edible track prints. Talk about how bison roamed the tallgrass prairie and left tracks behind."
+      }
+    },
+    {
+      "week": 22,
+      "title": "Murals & Art",
+      "placeToVisit": "International Quilt Museum",
+      "activities": [
+        {
+          "name": "Mosaic Making",
+          "description": "Glue paper squares in patterns"
+        },
+        {
+          "name": "Story Mural",
+          "description": "Paint a long paper with Nebraska stories"
+        },
+        {
+          "name": "Pattern Stamping",
+          "description": "Create repeating patterns like in Capitol"
+        },
+        {
+          "name": "Architecture Sketching",
+          "description": ""
+        },
+        {
+          "name": "Simple drawings of building shapes",
+          "description": ""
+        }
+      ],
+      "song": {
+        "title": "Imagine",
+        "artist": "John Lennon"
+      },
+      "book": {
+        "title": "The Dot",
+        "author": "Peter H. Reynolds"
+      },
+      "recipe": {
+        "name": "Edible Art Toast",
+        "ingredients": [
+          "4 slices whole grain bread (or gluten-free if needed)",
+          "½ cup cream cheese, yogurt, or nut butter (as the “canvas”)",
+          "Small bowls of colorful fruit & toppings for “paints”:",
+          "Blueberries (blue)",
+          "Strawberries or raspberries (red)",
+          "Mango or peaches (yellow/orange)",
+          "Kiwi or green grapes (green)",
+          "Purple grapes (purple)",
+          "Shredded coconut, granola, or seeds for texture"
+        ],
+        "instructions": "Lightly toast the bread slices so they hold toppings well. Spread each slice with cream cheese, yogurt, or nut butter to make a smooth “canvas.” Place fruit and toppings into small bowls, like a painter’s palette. Let kids arrange fruit and toppings on the toast to make their own “murals” — geometric designs, landscapes, or abstract art.",
+        "toddlerTask": "Before eating, have the kids show their edible murals, then talk about how real artists tell stories in the Capitol murals."
+      }
+    },
+    {
+      "week": 23,
+      "title": "Strawberry Patch",
+      "placeToVisit": "Roca Berry Farm or Haymarket Farmers Market",
+      "activities": [
+        {
+          "name": "Berry Hunt Game",
+          "description": ""
+        },
+        {
+          "name": "Hide red pom-poms or felt berries for little ones to find",
+          "description": ""
+        },
+        {
+          "name": "Strawberry Stamping",
+          "description": "Cut a strawberry in half and dip in paint to stamp"
+        },
+        {
+          "name": "Berry Sorting",
+          "description": ""
+        },
+        {
+          "name": "Compare real or pretend strawberries by size and shape",
+          "description": ""
+        },
+        {
+          "name": "Jam-Making Play",
+          "description": ""
+        },
+        {
+          "name": "Mash strawberries with a fork (real or pretend) and stir",
+          "description": ""
+        }
+      ],
+      "song": {
+        "title": "",
+        "artist": "The Beatles"
+      },
+      "book": {
+        "title": "The Little Mouse, the Red Ripe Strawberry, and the Big Hungry",
+        "author": "Don & Audrey Wood"
+      },
+      "recipe": {
+        "name": "Fresh Strawberry",
+        "ingredients": [
+          "1 cup sliced strawberries",
+          "1–2 tablespoons sugar or honey (optional, for macerating)",
+          "1 cup whipped cream or yogurt",
+          "4–6 mini shortcake biscuits, muffins, or sponge cake cubes",
+          "Optional: mint leaves or crushed graham crackers for topping"
+        ],
+        "instructions": "Toss sliced strawberries with sugar or honey and let sit for 5–10 minutes to get juicy. In small cups or jars, layer chunks of shortcake, a spoonful of strawberries, and a dollop of whipped cream or yogurt. Repeat layers as space allows. Top with a few fresh berries or a sprinkle of crushed graham crackers. Serve chilled!",
+        "toddlerTask": "Let your toddler help layer the ingredients—it’s perfect for sequencing, scooping, and building independence in the kitchen!"
+      }
+    },
+    {
+      "week": 24,
+      "title": "Bugs, Beetles &",
+      "placeToVisit": "Lincoln Children’s Zoo or Pioneers Park Nature Center",
+      "activities": [
+        {
+          "name": "Bug Hunt Adventure",
+          "description": "Search for ants, beetles, or butterflies outside"
+        },
+        {
+          "name": "Symmetry Butterfly Painting",
+          "description": "Fold paper with paint blots to create mirror wings"
+        },
+        {
+          "name": "Bug Movement Game",
+          "description": "Crawl like beetles, flutter like butterflies, hop like grasshoppers"
+        },
+        {
+          "name": "Bug Puzzle Station",
+          "description": "Make or use bug puzzles for matching"
+        }
+      ],
+      "song": {
+        "title": "",
+        "artist": "Andy Williams"
+      },
+      "book": {
+        "title": "The Very Hungry Caterpillar",
+        "author": "Eric Carle"
+      },
+      "recipe": {
+        "name": "Butterfly Celery Snacks",
+        "ingredients": [
+          "Celery stalks (cut into 3–4 inch pieces)",
+          "Nut butter, sunflower seed butter, or cream cheese",
+          "Mini pretzels or thin apple slices (for wings)",
+          "Raisins, dried cranberries, or blueberries (for the body)",
+          "Optional: googly eyes or chocolate chips for eyes"
+        ],
+        "instructions": "Fill celery pieces with your choice of spread. Gently press mini pretzels or thin apple slices into the sides to form butterfly wings. Add raisins or berries along the center to make a butterfly body. Use a dab of spread to attach eyes if you like. Serve right away or chill for later!",
+        "toddlerTask": "Invite your toddler to assemble their own butterfly—it’s a fun, hands-on way to explore textures, fine motor skills, and storytelling!"
+      }
+    },
+    {
+      "week": 25,
+      "title": "Zoo Adventures",
+      "placeToVisit": "Lincoln Children’s Zoo",
+      "activities": [
+        {
+          "name": "Zoo Keeper Pretend Play",
+          "description": ""
+        },
+        {
+          "name": "Care for stuffed animals with food, water, and blankets",
+          "description": ""
+        },
+        {
+          "name": "Habitat Sorting",
+          "description": "Match animals to grassland, jungle, desert, or arctic"
+        },
+        {
+          "name": "Animal Track Match",
+          "description": "Match toy animal feet to track cards"
+        },
+        {
+          "name": "Zoo Scavenger Hunt",
+          "description": "Create cards for “find a bird,” “see something furry,” “spot"
+        },
+        {
+          "name": "something with stripes",
+          "description": ""
+        }
+      ],
+      "song": {
+        "title": "",
+        "artist": "Simon & Garfunkel"
+      },
+      "book": {
+        "title": "Good Night, Gorilla",
+        "author": "Peggy Rathmann"
+      },
+      "recipe": {
+        "name": "Animal Cracker Trail Mix",
+        "ingredients": [
+          "1 cup animal crackers",
+          "½ cup dry cereal (like Cheerios or puffed rice)",
+          "¼ cup raisins or dried fruit bits",
+          "¼ cup mini pretzels",
+          "Optional: mini chocolate chips or yogurt-covered raisins"
+        ],
+        "instructions": "Combine all ingredients in a large bowl and mix well. Scoop into small containers or snack bags for easy grab-and-go fun. Store in an airtight container for up to 5 days.",
+        "toddlerTask": "Let your toddler help scoop and stir the mix—or pick out the animals as you name them together for a language-rich snack time!"
+      }
+    },
+    {
+      "week": 26,
+      "title": "Earth Exploring",
+      "placeToVisit": "Maxwell Arboretum",
+      "activities": [
+        {
+          "name": "Wildflower Press",
+          "description": "Press blooms in wax paper"
+        },
+        {
+          "name": "Leaf & Bark Rubbing Art",
+          "description": ""
+        },
+        {
+          "name": "Place paper over leaf or bark & rub with a rayon or pencil",
+          "description": "Make a Nature Crown"
+        },
+        {
+          "name": "Add flowers and grasses",
+          "description": ""
+        },
+        {
+          "name": "Flower Collection Walk",
+          "description": "Use a bag or bucket"
+        }
+      ],
+      "song": {
+        "title": "",
+        "artist": "John Denver"
+      },
+      "book": {
+        "title": "The Little Blue Planet",
+        "author": "Anaïs La Rocca and Eve Grissinger"
+      },
+      "recipe": {
+        "name": "Dirt Pudding Cups",
+        "ingredients": [
+          "2 cups cold milk (dairy or non-dairy)",
+          "1 (3.9 oz) package instant chocolate pudding mix",
+          "1 (8 oz) tub whipped topping (or coconut whip)",
+          "2 cups crushed chocolate sandwich cookies (to look like dirt)",
+          "Gummy worms, gummy bugs, or rock-shaped chocolate candies",
+          "Clear cups"
+        ],
+        "instructions": "In a bowl, whisk the pudding mix with milk until it thickens (about 2 minutes). Gently fold in the whipped topping to make it fluffy. Spoon pudding mixture into cups, filling them about ¾ full. Top with crushed cookies to look like soil. Add gummy worms, bugs, or candy “rocks” on top to make it look like the kids are exploring underground.",
+        "toddlerTask": "Let your toddler “dig” with spoons to uncover the worms and rocks, just like real earth explorers!"
+      }
+    },
+    {
+      "week": 27,
+      "title": "Freedom, Festivities & Fun",
+      "placeToVisit": "Watch a Local Parade or Fireworks Show",
+      "activities": [
+        {
+          "name": "Parade Float Building",
+          "description": "Decorate wagons or bikes"
+        },
+        {
+          "name": "Flag Printing",
+          "description": ""
+        },
+        {
+          "name": "Star stamps and striped painting",
+          "description": ""
+        },
+        {
+          "name": "Firework Art",
+          "description": "Paint with toilet paper tubes"
+        },
+        {
+          "name": "Patriotic Rhythm Band",
+          "description": ""
+        },
+        {
+          "name": "March with instruments",
+          "description": ""
+        }
+      ],
+      "song": {
+        "title": "",
+        "artist": "Bruce Springsteen"
+      },
+      "book": {
+        "title": "The Berenstain Bears God Bless Our Country",
+        "author": "Mike Berenstain"
+      },
+      "recipe": {
+        "name": "Red, White & Blue Fruit",
+        "ingredients": [
+          "Strawberries (halved or whole)",
+          "Banana slices or mini marshmallows",
+          "Blueberries",
+          "Wooden skewers or kid-safe sticks (like cake pop sticks or coffee stirrers)"
+        ],
+        "instructions": "Wash and prep all fruit. Cut strawberries in half and slice bananas into rounds. Help your toddler thread a strawberry, banana, and blueberry in order to create a red-white-blue pattern. Repeat the pattern along the skewer. Serve immediately or chill until snack time!",
+        "toddlerTask": "Let your toddler help build the skewers, practicing fine motor skills and color sequencing as they go!"
+      }
+    },
+    {
+      "week": 28,
+      "title": "Homegrown Goodness",
+      "placeToVisit": "Haymarket Farmers Market - on Saturday Morning\nor any Local Farmers Market",
+      "activities": [
+        {
+          "name": "Market Map Making",
+          "description": "Draw layout of vendor stalls"
+        },
+        {
+          "name": "Vegetable Printing",
+          "description": "Use cut veggies as stamps"
+        },
+        {
+          "name": "Farmer Interview",
+          "description": ""
+        },
+        {
+          "name": "Ask vendors about their produce",
+          "description": ""
+        },
+        {
+          "name": "Food Sorting",
+          "description": ""
+        },
+        {
+          "name": "Healthy vs. treats, fruits vs. veggies",
+          "description": ""
+        }
+      ],
+      "song": {
+        "title": "Country Pie",
+        "artist": "Bob Dylan"
+      },
+      "book": {
+        "title": "Up in the Garden and Down in the Dirt",
+        "author": "Kate Messner"
+      },
+      "recipe": {
+        "name": "Homegrown Goodness",
+        "ingredients": [
+          "1 cup cherry tomatoes (red)",
+          "1 cup cucumber slices (green)",
+          "1 cup baby carrots (orange)",
+          "1 cup snap peas (green)",
+          "1 cup strawberries, blueberries, or apple slices (sweet “garden",
+          "harvest”)",
+          "½ cup ranch dip, hummus, or yogurt dip"
+        ],
+        "instructions": "Place a spoonful of dip at the bottom of each clear cup. Arrange veggies and fruits standing upright so the cup looks like a little garden harvest. Serve with extra fruit on top for a “homegrown sweetness” surprise.",
+        "toddlerTask": "Let your toddler “harvest” by choosing and washing the fruits and veggies. Have them plant the stems or seeds from cucumbers, tomatoes, or strawberries in a small pot as a follow-up activity."
+      }
+    },
+    {
+      "week": 29,
+      "title": "Prairie Birds & Migration",
+      "placeToVisit": "Wildlife Safari Park – look for owls and Bald Eagles",
+      "activities": [
+        {
+          "name": "Binocular Play",
+          "description": "Make cardboard binoculars and spot birds"
+        },
+        {
+          "name": "Feather Painting",
+          "description": "Use feathers as brushes for art"
+        },
+        {
+          "name": "Migration Game",
+          "description": "Pretend to fly south like geese"
+        },
+        {
+          "name": "Birdseed Ornaments",
+          "description": ""
+        },
+        {
+          "name": "String cereal or make seed feeders",
+          "description": ""
+        }
+      ],
+      "song": {
+        "title": "Three Little Birds",
+        "artist": "Bob Marley & The Wailers"
+      },
+      "book": {
+        "title": "A Nest Is Noisy",
+        "author": "Dianna Hutts Aston & Sylvia Long"
+      },
+      "recipe": {
+        "name": "Feathered Friends Snack",
+        "ingredients": [
+          "2 cups pretzels",
+          "1 cup Cheerios or other round cereal",
+          "½ cup raisins or dried cranberries",
+          "½ cup sunflower seeds (shelled)",
+          "½ cup chocolate chips (optional)"
+        ],
+        "instructions": "Mix all ingredients together in a large bowl. Scoop into small cups or snack bags for easy sharing. Perfect for a bird-themed picnic or Storytime snack!",
+        "toddlerTask": "Invite your toddler to help pour and stir the ingredients together—great for practicing scooping, pouring, and early counting skills."
+      }
+    },
+    {
+      "week": 30,
+      "title": "Prairie Wildflowers",
+      "placeToVisit": "Pioneers Park Prairie - for Wildflower Walks",
+      "activities": [
+        {
+          "name": "Wildflower Press Book",
+          "description": "Press flowers between paper"
+        },
+        {
+          "name": "Color Collection Walk",
+          "description": "Find flowers in each color"
+        },
+        {
+          "name": "Flower Crown Making",
+          "description": ""
+        },
+        {
+          "name": "Weave flowers into crowns",
+          "description": ""
+        },
+        {
+          "name": "Pollinator Watch",
+          "description": "Observe bees and butterflies on flowers"
+        }
+      ],
+      "song": {
+        "title": "Wildflowers",
+        "artist": "Tom Petty"
+      },
+      "book": {
+        "title": "Wildflower",
+        "author": "Melanie Brown and Sara Gillingham"
+      },
+      "recipe": {
+        "name": "Wildflower Lemonade",
+        "ingredients": [],
+        "instructions": "In a pitcher, stir together the lemon juice, water, and sweetener until dissolved. Add ice to chill. Rinse edible flowers and gently pat dry. Sprinkle the flowers directly into the lemonade OR freeze them inside ice cubes beforehand for extra color. Stir lightly and serve in clear cups so kids can see the “wildflower magic” floating around.",
+        "toddlerTask": "Have children help squeeze lemons, stir, or pop the flower ice cubes into the cups."
+      }
+    },
+    {
+      "week": 31,
+      "title": "Splash Pads & Water Play",
+      "placeToVisit": "Union Plaza Fountains or Antelope Park Splash Pad",
+      "activities": [
+        {
+          "name": "Water Transfer Station",
+          "description": "Pour between containers"
+        },
+        {
+          "name": "Spray Bottle Art",
+          "description": ""
+        },
+        {
+          "name": "Spray colored water on paper",
+          "description": ""
+        },
+        {
+          "name": "Car Wash Station",
+          "description": ""
+        },
+        {
+          "name": "Wash bikes and toy cars",
+          "description": ""
+        },
+        {
+          "name": "Rainbow Water Beads",
+          "description": ""
+        },
+        {
+          "name": "Sensory play with water beads",
+          "description": ""
+        }
+      ],
+      "song": {
+        "title": "",
+        "artist": "Al Green"
+      },
+      "book": {
+        "title": "Water Is Water: A Book About the Water Cycle",
+        "author": "Miranda Paul"
+      },
+      "recipe": {
+        "name": "Splash Pad Fruit Pops",
+        "ingredients": [
+          "Seedless watermelon chunks",
+          "Blueberries",
+          "Pineapple tidbits",
+          "Strawberries (sliced)",
+          "Coconut water or lemonade",
+          "Bonus Snack: “Wave Cups”",
+          "Clear cups",
+          "Blue gelatin (prepared and chilled)",
+          "Whipped cream “foam” on top",
+          "Swedish fish or gummy sharks for a playful surprise"
+        ],
+        "instructions": "Have kids drop fruit pieces into popsicle molds (like “little splashes” of color). Pour in coconut water or lemonade to fill. Freeze for at least 4 hours. Pop out and enjoy a cool “splashy” treat after water play!",
+        "toddlerTask": "Let them drop fruit into molds, stir gelatin before chilling, or place gummy “fish” into the “waves.”"
+      }
+    },
+    {
+      "week": 32,
+      "title": "Berry Sweet",
+      "placeToVisit": "Roca Berry Farm",
+      "activities": [
+        {
+          "name": "Berry Sorting Game",
+          "description": "Sort by size, color, type"
+        },
+        {
+          "name": "Strawberry Plant Study",
+          "description": ""
+        },
+        {
+          "name": "Examine roots, leaves, runners",
+          "description": ""
+        },
+        {
+          "name": "Berry Dye Art",
+          "description": "Use berries to dye fabric"
+        },
+        {
+          "name": "Jam Making",
+          "description": ""
+        },
+        {
+          "name": "Simple refrigerator jam",
+          "description": ""
+        }
+      ],
+      "song": {
+        "title": "Blueberry Hill",
+        "artist": "Fats Domino"
+      },
+      "book": {
+        "title": "Jamberry",
+        "author": "Bruce Degen"
+      },
+      "recipe": {
+        "name": "Berry Sweet Skewers",
+        "ingredients": [
+          "Strawberries (halved if big)",
+          "Blueberries",
+          "Raspberries",
+          "Blackberries",
+          "Mini marshmallows or cubed melon (for contrast)",
+          "Optional: yogurt dip with a drizzle of honey",
+          "Instructions",
+          "Wash all berries thoroughly. Help kids thread the berries (and a few",
+          "marshmallows/melon pieces) onto kid-safe skewers or straws in fun patterns.",
+          "Serve with a small dish of yogurt for dipping."
+        ],
+        "instructions": "",
+        "toddlerTask": "They can sort berries by color, place them in patterns (red-blue-red-blue), or dip the skewers into yogurt."
+      }
+    },
+    {
+      "week": 33,
+      "title": "Tallgrass Prairies",
+      "placeToVisit": "Nine-Mile Prairie",
+      "activities": [
+        {
+          "name": "Grass Height Measuring",
+          "description": ""
+        },
+        {
+          "name": "Compare grass to child height",
+          "description": ""
+        },
+        {
+          "name": "Prairie Wind Dance",
+          "description": ""
+        },
+        {
+          "name": "Move like grass in wind",
+          "description": ""
+        },
+        {
+          "name": "Grass Weaving",
+          "description": ""
+        },
+        {
+          "name": "Simple weaving with long grasses",
+          "description": ""
+        },
+        {
+          "name": "Prairie Animal Hide & Seek",
+          "description": ""
+        },
+        {
+          "name": "Spot animals in grass",
+          "description": ""
+        }
+      ],
+      "song": {
+        "title": "Fields of Gold",
+        "artist": "Sting"
+      },
+      "book": {
+        "title": "The Prairie That Nature Built",
+        "author": "Marybeth Lorbiecki"
+      },
+      "recipe": {
+        "name": "Prairie Grass Parfaits",
+        "ingredients": [
+          "Vanilla or coconut yogurt (sky)",
+          "Crushed graham crackers or gluten-free cookies (earth/soil)",
+          "Green grapes or kiwi slices (prairie grass)",
+          "Blueberries (wild berries found on the prairie)",
+          "Optional: animal crackers (bison, horses, prairie dogs if you can find",
+          "them!)"
+        ],
+        "instructions": "Layer the Earth, sprinkle graham cracker crumbs in the bottom of a clear cup. Add the Grass, put in sliced kiwi or grapes. Add the Sky, spoon yogurt over the top. Sprinkle with Prairie Berries, drop blueberries on top. Extra Fun ~ Place an animal cracker on top like a little prairie creature roaming the grasslands.",
+        "toddlerTask": "Let them sprinkle the “earth” crumbs or place the “prairie animals” on top. Autumn invites us to slow our pace and savor the transition from the end of summer to the calming coolness of the fall season. As families, we can turn our attention from the hustle and bustle of daily events to the natural world and its changes. Through this we model for our children the value of rest and reflection. Engage your senses in the quiet joys of the seasons- perhaps by listening to the rustle of leaves, inhaling the earthly aroma of a freshly baked treat, or admiring the vibrant hues of the fading foliage."
+      }
+    },
+    {
+      "week": 34,
+      "title": "Orchard Harvest",
+      "placeToVisit": "Picnic Hill Orchard",
+      "activities": [
+        {
+          "name": "Harvest Basket Hunt",
+          "description": "Find pretend fruits/veggies"
+        },
+        {
+          "name": "Apple Stamping",
+          "description": "Use cut apples as stamps"
+        },
+        {
+          "name": "Color the Crops",
+          "description": "Match apples to color swatches"
+        },
+        {
+          "name": "Pretend Farm Stand",
+          "description": ""
+        },
+        {
+          "name": "Sell pretend or real produce",
+          "description": ""
+        }
+      ],
+      "song": {
+        "title": "",
+        "artist": "Jay & The Techniques"
+      },
+      "book": {
+        "title": "How to Make an Apple Pie and See the World",
+        "author": "Marjorie Priceman"
+      },
+      "recipe": {
+        "name": "Mini Baked Apples",
+        "ingredients": [
+          "4 small apples (like Gala or Honeycrisp)",
+          "2 tablespoons oats",
+          "1 tablespoon brown sugar or maple syrup",
+          "½ teaspoon cinnamon",
+          "1 tablespoon butter (melted)",
+          "Optional: raisins or chopped nuts"
+        ],
+        "instructions": "Preheat oven to 375°F. Core the apples, leaving the bottoms intact to form little cups. In a bowl, mix oats, brown sugar, cinnamon, and melted butter. Stir in raisins or nuts if using. Spoon the filling into the center of each apple. Place apples in a baking dish with a splash of water at the bottom. Cover with foil and bake for 25–30 minutes, until soft but not collapsing. Cool slightly before serving.",
+        "toddlerTask": "Invite your toddler to help scoop the filling into the apples—great for fine motor practice and scent exploration!"
+      }
+    },
+    {
+      "week": 35,
+      "title": "Bugs & Butterflies",
+      "placeToVisit": "Lincoln Children’s Zoo Butterfly Pavillion",
+      "activities": [
+        {
+          "name": "Butterfly Life Cycle",
+          "description": ""
+        },
+        {
+          "name": "Act out egg to butterfly stages",
+          "description": ""
+        },
+        {
+          "name": "Bug House Building",
+          "description": ""
+        },
+        {
+          "name": "Stack natural materials for bug homes",
+          "description": ""
+        },
+        {
+          "name": "Magnifying Glass Safari",
+          "description": ""
+        },
+        {
+          "name": "Close observation of tiny creatures",
+          "description": ""
+        },
+        {
+          "name": "Caterpillar Counting",
+          "description": "Practice counting with toy caterpillars"
+        }
+      ],
+      "song": {
+        "title": "Love is Like a Butterfly",
+        "artist": "Dolly Parton"
+      },
+      "book": {
+        "title": "Waiting for Wings",
+        "author": "Lois Ehlert"
+      },
+      "recipe": {
+        "name": "Butterfly Snack Garden",
+        "ingredients": [
+          "Celery sticks (butterfly bodies / garden stems)",
+          "Peanut butter or almond butter (filling)",
+          "Pretzel twists (butterfly wings)",
+          "Grapes, cherry tomatoes, or blueberries (bug bodies)",
+          "Mini chocolate chips or raisins (bug spots/eyes)",
+          "Sliced strawberries or apple wedges (bright butterfly wings)"
+        ],
+        "instructions": "Fill celery sticks with peanut butter, stick 2 pretzel twists into each side for wings. Add raisins or mini chocolate chips down the celery for a “spotted body.” Slice strawberries or apples into thin wedges. Place them on each side of a grape or blueberry “body” to make butterfly wings. Use grapes or cherry tomatoes as little “ladybugs.“ Add tiny chocolate chip “spots” with a dot of nut butter as glue. Place everything on a big platter with spinach leaves or lettuce underneath to look like grass.",
+        "toddlerTask": "Invite your toddler to help spread nut butter, stick pretzels to make wings & count raisins for “spots”—great for fine motor practice!"
+      }
+    },
+    {
+      "week": 36,
+      "title": "Sun & Shadows",
+      "placeToVisit": "Mueller Tower - UNL Campus",
+      "activities": [
+        {
+          "name": "Shadow Tracing",
+          "description": ""
+        },
+        {
+          "name": "Trace shadows at different times",
+          "description": ""
+        },
+        {
+          "name": "Sundial Making",
+          "description": "Create simple sundial with plate and straw"
+        },
+        {
+          "name": "Shadow Puppet Show",
+          "description": "Use hands and toys for shadows"
+        },
+        {
+          "name": "Sun Safety Station",
+          "description": "Practice applying sunscreen, wearing hats"
+        }
+      ],
+      "song": {
+        "title": "Here Comes the Sun",
+        "artist": "The Beatles"
+      },
+      "book": {
+        "title": "8 Little Planets",
+        "author": "Chris Ferrie"
+      },
+      "recipe": {
+        "name": "Sunny Shadows Fruit Plate",
+        "ingredients": [
+          "Orange slices (the sun)",
+          "Pineapple rings (sunshine glow)",
+          "Blueberries or black grapes (shadows)",
+          "Kiwi slices or cucumber rounds (green earth beneath)",
+          "A dollop of vanilla yogurt or whipped cream (clouds)"
+        ],
+        "instructions": "Make the Sun by placing an orange slice or pineapple ring in the enter of a plate. Add rays by arranging orange or pineapple strips around it like sunbeams. Create shadows using blueberries or grapes to trail outward from the “sun” in a curved line, showing how shadows stretch. Add kiwi or cucumber slices at the bottom for the “earth.” Top with a spoonful of yogurt or whipped cream to create clouds.",
+        "toddlerTask": "Let your toddler help arrange the “sun rays” & “shadows.” Count the rays as they go on the plate.—great for fine motor development and encouraging new tastes!"
+      }
+    },
+    {
+      "week": 37,
+      "title": "Fall on the Farm",
+      "placeToVisit": "SR Pumpkin & Flower Farm",
+      "activities": [
+        {
+          "name": "U-Pick Pumpkins",
+          "description": "Decorate your Porch"
+        },
+        {
+          "name": "Pumpkin Wash Station",
+          "description": ""
+        },
+        {
+          "name": "Scrub with water and brushes",
+          "description": ""
+        },
+        {
+          "name": "Hay Bale Jump",
+          "description": ""
+        },
+        {
+          "name": "Leap from safe straw piles",
+          "description": ""
+        },
+        {
+          "name": "Pick Flowers",
+          "description": "Make a Fall bouquet"
+        }
+      ],
+      "song": {
+        "title": "",
+        "artist": "John Denver"
+      },
+      "book": {
+        "title": "The Little Yellow Leaf",
+        "author": "Carin Berger"
+      },
+      "recipe": {
+        "name": "Pumpkin Cornbread Muffins",
+        "ingredients": [
+          "1 cup cornmeal",
+          "1 cup flour",
+          "1 tablespoon baking powder",
+          "½ teaspoon salt",
+          "½ teaspoon cinnamon",
+          "1 cup milk",
+          "½ cup canned pumpkin puree",
+          "¼ cup melted butter or oil",
+          "¼ cup maple syrup or brown sugar",
+          "1 egg"
+        ],
+        "instructions": "Preheat oven to 375°F and grease or line a muffin tin. In a large bowl, whisk together cornmeal, flour, baking powder, salt, and cinnamon. In another bowl, mix milk, pumpkin, melted butter, syrup, and egg. Combine wet and dry ingredients just until mixed. Scoop into muffin cups and bake for 15–18 minutes until golden and a toothpick comes out clean.",
+        "toddlerTask": "Let your toddler help stir in the pumpkin and scoop the batter—a perfect sensoryrich kitchen task for fall!"
+      }
+    },
+    {
+      "week": 38,
+      "title": "Capitol Dome & Towers",
+      "placeToVisit": "Nebraska State Capitol",
+      "activities": [
+        {
+          "name": "Tower Building Challenge",
+          "description": "Build tallest tower with blocks"
+        },
+        {
+          "name": "Dome Art",
+          "description": "Paint paper bowls gold like Capitol dome"
+        },
+        {
+          "name": "Nebraska Flag Making",
+          "description": "Create state flag with paper"
+        },
+        {
+          "name": "Capitol Counting",
+          "description": "Count windows, doors, steps"
+        }
+      ],
+      "song": {
+        "title": "Capitol City",
+        "artist": "Wilco"
+      },
+      "book": {
+        "title": "Good Night Nebraska",
+        "author": "Adam Gamble"
+      },
+      "recipe": {
+        "name": "Capitol Dome Pancakes",
+        "ingredients": [
+          "1 cup flour (use gluten-free blend if needed)",
+          "2 tsp baking powder",
+          "1 Tbsp sugar (optional)",
+          "Pinch of salt",
+          "1 egg",
+          "1 cup milk (dairy or non-dairy)",
+          "2 Tbsp melted butter or coconut oil",
+          "1 tsp vanilla extract",
+          "Butter or oil for cooking"
+        ],
+        "instructions": "In bowl, whisk flour, baking powder, sugar, and salt. In another bowl, whisk egg, milk, melted butter and vanilla. Combine wet + dry, stir gently (do not overmix). Heat skillet to medium, grease lightly. Pour small amounts of batter to make various pancake sizes (1 large, 1 medium, 1 small per person). Cook until bubbles form, flip, and cook until golden. Assemble dome, stack largest pancake on the bottom, medium in the middle, small on top - like the Capitol domes rounded top. Dust with powdered sugar to mimic the gold shimmer, place a strawberry upright on top to symbolize The Sower. Drizzle with maple syrup for shine.",
+        "toddlerTask": "Let your toddler help stack the different sized pancakes, help them gently press a strawberry on top and and sprinkle on the powdered sugar—a great sensory and seasonal fine motor activity!"
+      }
+    },
+    {
+      "week": 39,
+      "title": "Evening Skies",
+      "placeToVisit": "Hyde Observatory - or Backyard Star Gazing",
+      "activities": [
+        {
+          "name": "Firefly Jar Lanterns",
+          "description": ""
+        },
+        {
+          "name": "Glow sticks in jars",
+          "description": ""
+        },
+        {
+          "name": "Constellation Dot-to-Dot",
+          "description": ""
+        },
+        {
+          "name": "Connect star patterns",
+          "description": ""
+        },
+        {
+          "name": "Night Sounds Listening",
+          "description": ""
+        },
+        {
+          "name": "Identify evening sounds",
+          "description": ""
+        },
+        {
+          "name": "Glow-in-Dark Paint",
+          "description": "Paint rocks and shells"
+        }
+      ],
+      "song": {
+        "title": "Blue Skies",
+        "artist": "Ella Fitzgerald"
+      },
+      "book": {
+        "title": "Every Color of Light: A Book about the Sky",
+        "author": "Hiroshi Osada"
+      },
+      "recipe": {
+        "name": "Galaxy Fruit & Yogurt Parfait",
+        "ingredients": [
+          "Vanilla or coconut yogurt (the milky way base)",
+          "Blueberries & blackberries (night sky stars)",
+          "Sliced bananas (crescent moons)",
+          "Purple grapes or chopped plums (deep space)",
+          "A sprinkle of granola or crushed graham cracker (stardust)",
+          "Optional: edible glitter or star-shaped sprinkles"
+        ],
+        "instructions": "In a clear cup or jar, spoon a layer of yogurt. Add a handful of blueberries and blackberries. Spoon another layer of yogurt. Tuck in banana slices along the side of the glass so they look like glowing moons. Add grapes or plums for that deep purple “galaxy” look. Top with granola for crunch (the stardust). Sprinkle a pinch of edible glitter or star-shaped sprinkles on top for the magic sparkle.",
+        "toddlerTask": "Let your toddler help add layered ingredients, while talking about how each layer represents the evening sky."
+      }
+    },
+    {
+      "week": 40,
+      "title": "Pumpkin Patch",
+      "placeToVisit": "Roca Berry Farm - pumpkin patch",
+      "activities": [
+        {
+          "name": "Pumpkin Investigation",
+          "description": ""
+        },
+        {
+          "name": "Measure, weigh, float test",
+          "description": ""
+        },
+        {
+          "name": "Pumpkin Seed Art",
+          "description": "Paint and glue seeds"
+        },
+        {
+          "name": "Pumpkin Bowling",
+          "description": "Roll small pumpkins at targets"
+        },
+        {
+          "name": "Pumpkin Volcano",
+          "description": ""
+        },
+        {
+          "name": "Baking soda eruption inside pumpkin",
+          "description": ""
+        }
+      ],
+      "song": {
+        "title": "",
+        "artist": "The California Honeydrops"
+      },
+      "book": {
+        "title": "Pumpkin Jack",
+        "author": "Will Hubbell"
+      },
+      "recipe": {
+        "name": "Pumpkin Chocolate Chip",
+        "ingredients": [
+          "1½ cups flour",
+          "1 tsp baking soda",
+          "1 tsp cinnamon",
+          "½ tsp salt",
+          "1 cup pumpkin puree",
+          "½ cup oil",
+          "2 eggs",
+          "1 cup sugar",
+          "½ cup chocolate chips"
+        ],
+        "instructions": "Mix dry ingredients. In separate bowl, combine pumpkin, oil, eggs, and sugar. Fold wet into dry. Add chocolate chips. Fill muffin cups ¾ full. Bake at 350°F for 20 minutes.",
+        "toddlerTask": "Let your toddler help stir the chocolate chips into the batter and line the muffin tin with paper cups—fun, simple steps that build confidence and coordination!"
+      }
+    },
+    {
+      "week": 41,
+      "title": "Prairie Grasses & Seeds",
+      "placeToVisit": "Spring Creek Prairie Audubon Center - for seed collection",
+      "activities": [
+        {
+          "name": "Seed Collection Walk",
+          "description": ""
+        },
+        {
+          "name": "Gather different prairie seeds",
+          "description": ""
+        },
+        {
+          "name": "Seed Sorting Trays",
+          "description": "Sort by size, shape, texture"
+        },
+        {
+          "name": "Seed Helicopter Drop",
+          "description": "Watch maple seeds spin down"
+        },
+        {
+          "name": "Seed Mosaic Art",
+          "description": "Glue seeds in patterns"
+        }
+      ],
+      "song": {
+        "title": "",
+        "artist": "Laura Veirs"
+      },
+      "book": {
+        "title": "Out on the Prairie",
+        "author": "Donna M. Bateman"
+      },
+      "recipe": {
+        "name": "Seeded Crackers",
+        "ingredients": [],
+        "instructions": "",
+        "toddlerTask": "Let your toddler help sprinkle the seeds on top and press them gently into the dough—a great way to practice fine motor skills and explore textures!"
+      }
+    },
+    {
+      "week": 42,
+      "title": "Husker’s “Go Big Red”",
+      "placeToVisit": "Memorial Stadium - or Husker game day atmosphere",
+      "activities": [
+        {
+          "name": "Red Day Celebration",
+          "description": ""
+        },
+        {
+          "name": "Everyone wears red",
+          "description": ""
+        },
+        {
+          "name": "Corn Husker Craft",
+          "description": "Make corn husk figures"
+        },
+        {
+          "name": "Football Toss",
+          "description": "Practice throwing soft footballs"
+        },
+        {
+          "name": "Marching Band Parade",
+          "description": "Make instruments and march"
+        }
+      ],
+      "song": {
+        "title": "There Is No Place Like Nebraska",
+        "artist": ""
+      },
+      "book": {
+        "title": "C is for Cornhusker: A Nebraska Alphabet",
+        "author": "Rajean Luebs Shepherd"
+      },
+      "recipe": {
+        "name": "Husker Red Velvet Cookies",
+        "ingredients": [
+          "1 ½ cups flour",
+          "3 tbsp unsweetened cocoa powder",
+          "½ tsp baking soda",
+          "¼ tsp salt",
+          "½ cup unsalted butter, softened",
+          "1 cup sugar",
+          "1 large egg",
+          "1 tsp vanilla extract",
+          "1 tbsp natural red food coloring (from beet juice or powder)",
+          "½ cup buttermilk",
+          "Powdered sugar for rolling"
+        ],
+        "instructions": "Preheat oven to 350°F and line a baking sheet with parchment. In one bowl, whisk flour, cocoa, baking soda, and salt. In another, cream butter and sugar until fluffy, then beat in egg, vanilla, and red food coloring. Add dry ingredients in two parts, alternating with buttermilk, until just combined. Chill dough for 30 minutes. Roll into balls, coat in powdered sugar, and place on baking sheet. Bake 10–12 minutes, until set and slightly crackled. Cool before serving.",
+        "toddlerTask": "Let your toddler help place the dough balls onto the cookie sheet. This will help build counting ability and the concepts of patterns! One, two three...."
+      }
+    },
+    {
+      "week": 43,
+      "title": "All Hallows’ Eve",
+      "placeToVisit": "Boo at the Zoo @ Lincoln Children’s Zoo",
+      "activities": [
+        {
+          "name": "Bat Wing Dance",
+          "description": ""
+        },
+        {
+          "name": "Flap arms and swirl in dark fabric",
+          "description": ""
+        },
+        {
+          "name": "Nocturnal vs. Diurnal Sorting",
+          "description": ""
+        },
+        {
+          "name": "Picture sort game",
+          "description": ""
+        },
+        {
+          "name": "Flashlight Tag",
+          "description": ""
+        },
+        {
+          "name": "Gently follow light indoors",
+          "description": ""
+        },
+        {
+          "name": "Bat Cave Tent",
+          "description": ""
+        },
+        {
+          "name": "Read in a cozy dark corner",
+          "description": ""
+        }
+      ],
+      "song": {
+        "title": "",
+        "artist": "Van Morrison"
+      },
+      "book": {
+        "title": "Stellaluna",
+        "author": "Janell Cannon"
+      },
+      "recipe": {
+        "name": "Banana Bat Bites",
+        "ingredients": [
+          "2 bananas",
+          "¼ cup chocolate chips (melted)",
+          "Mini chocolate chips or candy eyes",
+          "Pretzel thins or chocolate cookies (for wings)"
+        ],
+        "instructions": "Slice bananas into thick coins. Dip one side of each coin into melted chocolate and place on a parchment-lined tray. Break pretzel thins or cookies into wing shapes and press into the sides. Add mini chocolate chips or candy eyes on top. Chill in the fridge for 10–15 minutes until set.",
+        "toddlerTask": "Let your toddler help dip the bananas and press on the eyes or wings—a spookyfun activity for little fingers and imagination!"
+      }
+    },
+    {
+      "week": 44,
+      "title": "Halloween Fun",
+      "placeToVisit": "Lee's Legendary Corn Maze @ Roca Berry Farm\n- or trunk-or-treat event",
+      "activities": [
+        {
+          "name": "Pumpkin Bowling",
+          "description": "Use gourds and paper rolls"
+        },
+        {
+          "name": "Costume Parade",
+          "description": ""
+        },
+        {
+          "name": "March and admire each other's dress-up",
+          "description": "Decorate Mini Pumpkins"
+        },
+        {
+          "name": "Paint, stickers, glitter",
+          "description": ""
+        },
+        {
+          "name": "Monster Freeze Dance",
+          "description": ""
+        },
+        {
+          "name": "Pause on scary music",
+          "description": ""
+        }
+      ],
+      "song": {
+        "title": "",
+        "artist": "Bobby “Boris” Pickett"
+      },
+      "book": {
+        "title": "Room on the Broom",
+        "author": "Julia Donaldson"
+      },
+      "recipe": {
+        "name": "Monster Mash Munch Mix",
+        "ingredients": [
+          "1 cup popcorn (air-popped or lightly salted)",
+          "½ cup pretzels",
+          "¼ cup candy corn or gummy worms",
+          "¼ cup mini marshmallows",
+          "¼ cup chocolate chips or colorful candies",
+          "Optional: drizzle of melted chocolate or white chocolate"
+        ],
+        "instructions": "In a large bowl, mix together popcorn, pretzels, marshmallows, chocolate chips, and candy. Drizzle with melted chocolate if desired, then let it set for a few minutes. Scoop into cups or small bags for easy serving.",
+        "toddlerTask": "Let your toddler help dump and stir the mix-ins—and pick their favorite “monster pieces” for fine motor practice and fun food choices!"
+      }
+    },
+    {
+      "week": 45,
+      "title": "Dancing Leaves",
+      "placeToVisit": "Prairie Pines or Antelope Park - for leaf collecting",
+      "activities": [
+        {
+          "name": "Leaf Rainbow",
+          "description": ""
+        },
+        {
+          "name": "Arrange leaves by color gradient",
+          "description": ""
+        },
+        {
+          "name": "Leaf Rubbing Book",
+          "description": "Create book of different leaf textures"
+        },
+        {
+          "name": "Leaf Pile Olympics",
+          "description": ""
+        },
+        {
+          "name": "Jump, toss, and play in leaves",
+          "description": ""
+        },
+        {
+          "name": "Leaf Crown Making",
+          "description": ""
+        },
+        {
+          "name": "String leaves into crowns",
+          "description": ""
+        }
+      ],
+      "song": {
+        "title": "Autumn Leaves",
+        "artist": "Nat King Cole"
+      },
+      "book": {
+        "title": "We're Going on a Leaf Hunt",
+        "author": "Steve Metzger"
+      },
+      "recipe": {
+        "name": "Caramel Apple Nachos",
+        "ingredients": [
+          "2 crisp apples (sliced thin)",
+          "2 tablespoons caramel sauce (store-bought or homemade)",
+          "2 tablespoons peanut butter (optional, warmed)",
+          "1 tablespoon mini chocolate chips",
+          "1 tablespoon crushed pretzels, granola, or nuts",
+          "Optional: raisins or shredded coconut"
+        ],
+        "instructions": "Slice apples into thin wedges and spread them out on a plate or tray like nachos. Drizzle with caramel sauce (and peanut butter, if using). Sprinkle with mini chocolate chips, crushed pretzels, and other toppings. Serve immediately before the apples brown—or brush slices with lemon juice to help keep them fresh.",
+        "toddlerTask": "Let your toddler help drizzle the sauce and sprinkle toppings—it’s perfect for sensory fun, creativity, and snack-time pride!"
+      }
+    },
+    {
+      "week": 46,
+      "title": "Woodland Creatures",
+      "placeToVisit": "Wilderness Park - for animal spotting",
+      "activities": [
+        {
+          "name": "Animal Track Casting",
+          "description": "Make plaster casts of tracks"
+        },
+        {
+          "name": "Squirrel Obstacle Course",
+          "description": ""
+        },
+        {
+          "name": "Jump and climb like squirrels",
+          "description": ""
+        },
+        {
+          "name": "Woodland Puppet Show",
+          "description": "Make animal stick puppets"
+        },
+        {
+          "name": "Acorn Counting Games",
+          "description": "Sort and count acorns"
+        }
+      ],
+      "song": {
+        "title": "",
+        "artist": "The Paper Kites"
+      },
+      "book": {
+        "title": "Because of an Acorn",
+        "author": "Lola M. Schaefer and Adam Schaefer"
+      },
+      "recipe": {
+        "name": "Forest Trail Granola Bars",
+        "ingredients": [],
+        "instructions": "",
+        "toddlerTask": "Let your toddler stir the dry ingredients and help press the mixture into the pan— great for motor skills and a proud snack-time moment!"
+      }
+    },
+    {
+      "week": 47,
+      "title": "Gratitude & Family",
+      "placeToVisit": "Deliver homemade gratitude cards to loved ones",
+      "activities": [
+        {
+          "name": "Gratitude Garland",
+          "description": ""
+        },
+        {
+          "name": "Write thankful notes on paper leaves",
+          "description": ""
+        },
+        {
+          "name": "Family Tree Art",
+          "description": "Paint handprint tree with family photos"
+        },
+        {
+          "name": "Thanksgiving Placemats",
+          "description": "Decorate for family dinner"
+        },
+        {
+          "name": "Kindness Stones",
+          "description": "Paint and hide for others to find"
+        }
+      ],
+      "song": {
+        "title": "I’ve Got Plenty To Be Thankful For",
+        "artist": "Bing Crosby"
+      },
+      "book": {
+        "title": "Thanks for Thanksgiving",
+        "author": "Julie Markes"
+      },
+      "recipe": {
+        "name": "Pumpkin Pie Smoothies",
+        "ingredients": [
+          "½ cup canned pumpkin puree",
+          "1 banana (fresh or frozen)",
+          "½ cup milk (any kind)",
+          "¼ cup vanilla yogurt",
+          "1 tablespoon maple syrup or honey",
+          "½ teaspoon pumpkin pie spice",
+          "Handful of ice cubes"
+        ],
+        "instructions": "Add all ingredients to a blender and blend until smooth and creamy. Taste and adjust sweetness or spice if needed. Serve chilled with a sprinkle of cinnamon or a dollop of whipped cream for a festive touch.",
+        "toddlerTask": "Let your toddler help add the ingredients to the blender and press the blend button—they’ll love seeing it swirl into something cozy and orange!"
+      }
+    },
+    {
+      "week": 48,
+      "title": "Railroad Legends",
+      "placeToVisit": "Historic Haymarket District/Iron Horse Park",
+      "activities": [
+        {
+          "name": "Train Whistle Stories",
+          "description": "Make up stories about train sounds"
+        },
+        {
+          "name": "Railroad Map Drawing",
+          "description": "Draw train routes across Nebraska"
+        },
+        {
+          "name": "Boxcar Building",
+          "description": ""
+        },
+        {
+          "name": "Large cardboard box trains",
+          "description": ""
+        },
+        {
+          "name": "Train Engineer Dress-Up",
+          "description": ""
+        },
+        {
+          "name": "Hats and bandanas for role play",
+          "description": ""
+        }
+      ],
+      "song": {
+        "title": "Wabash Cannonball",
+        "artist": "Willie Nelson"
+      },
+      "book": {
+        "title": "The Little Engine That Could",
+        "author": "Watty Piper"
+      },
+      "recipe": {
+        "name": "Railroad Tie Pretzels",
+        "ingredients": [
+          "1½ cups warm water",
+          "1 packet yeast",
+          "1 tbsp sugar",
+          "4 cups flour",
+          "Coarse salt"
+        ],
+        "instructions": "Dissolve yeast and sugar in water. Add flour to form dough. Knead 5 minutes. Let rise 1 hour. Shape into railroad tie rectangles. Boil 30 seconds each side. Bake at 425°F for 15 minutes. Sprinkle with salt.",
+        "toddlerTask": "Let your toddler help sprinkle in the cocoa and spices or stir gently with supervision—a great way to build confidence in the kitchen while making memories."
+      }
+    },
+    {
+      "week": 49,
+      "title": "Cozying In",
+      "placeToVisit": "Bee Me Sensory Gym",
+      "activities": [
+        {
+          "name": "Yarn Wrapping",
+          "description": ""
+        },
+        {
+          "name": "Wrap sticks with colorful yarn",
+          "description": ""
+        },
+        {
+          "name": "Felt Story Board",
+          "description": "Create autumn scenes with felt"
+        },
+        {
+          "name": "Cozy Corner Building",
+          "description": "Make reading nook with pillows"
+        },
+        {
+          "name": "Thankful Jar",
+          "description": "Add daily gratitude notes"
+        }
+      ],
+      "song": {
+        "title": "Baby, It’s Cold Outside",
+        "artist": "Ella Fitzgerald & Louis Jordan"
+      },
+      "book": {
+        "title": "Before Morning",
+        "author": "Joyce Sidman"
+      },
+      "recipe": {
+        "name": "Cinnamon Star Cookies",
+        "ingredients": [],
+        "instructions": "",
+        "toddlerTask": "Let your toddler help cut out the star shapes and sprinkle on cinnamon sugar or decorations—great for building confidence and creativity in the kitchen!"
+      }
+    },
+    {
+      "week": 50,
+      "title": "Winter Wonders",
+      "placeToVisit": "“Zoo Lights Powered by LES” @ Lincoln Children’s Zoo",
+      "activities": [
+        {
+          "name": "Family Recipe Book",
+          "description": ""
+        },
+        {
+          "name": "Illustrate favorite holiday recipes",
+          "description": ""
+        },
+        {
+          "name": "Light Jar Lanterns",
+          "description": ""
+        },
+        {
+          "name": "Battery lights in decorated jars",
+          "description": ""
+        },
+        {
+          "name": "Holiday Card Making",
+          "description": ""
+        },
+        {
+          "name": "Cards for neighbors and family",
+          "description": ""
+        },
+        {
+          "name": "Cookie Decorating Party",
+          "description": ""
+        },
+        {
+          "name": "Simple sugar cookies to decorate",
+          "description": ""
+        }
+      ],
+      "song": {
+        "title": "Winter Wonderland",
+        "artist": "Tony Bennett"
+      },
+      "book": {
+        "title": "The Polar Express",
+        "author": "Chris Van Allsburg"
+      },
+      "recipe": {
+        "name": "Vanilla Snow Smoothie",
+        "ingredients": [
+          "1 frozen banana",
+          "½ cup vanilla yogurt",
+          "½ cup milk (any kind)",
+          "½ teaspoon vanilla extract",
+          "Optional: shredded coconut or white chia seeds for snowy texture",
+          "Ice cubes (for extra chill)"
+        ],
+        "instructions": "Blend the banana, yogurt, milk, vanilla, and a handful of ice until smooth and frosty. Add coconut or chia seeds for texture if you like. Pour into a clear cup and top with a sprinkle of coconut “snow” for a magical winter treat!",
+        "toddlerTask": "Let your toddler help peel the banana and pour in the ingredients—then watch with wonder as it all blends into snow!"
+      }
+    },
+    {
+      "week": 51,
+      "title": "Christmastide",
+      "placeToVisit": "Drive-through Christmas Light Show @ Star City Shores",
+      "activities": [
+        {
+          "name": "Paper Snowflake Blizzard",
+          "description": "Cut and hang snowflakes"
+        },
+        {
+          "name": "Hot Cocoa Bar",
+          "description": ""
+        },
+        {
+          "name": "Set up toppings station",
+          "description": ""
+        },
+        {
+          "name": "Winter Animal Preparation",
+          "description": ""
+        },
+        {
+          "name": "Learn how animals prepare for winter",
+          "description": ""
+        },
+        {
+          "name": "Candle Making",
+          "description": "Roll beeswax candles"
+        }
+      ],
+      "song": {
+        "title": "The Christmas Song",
+        "artist": "Nat King Cole"
+      },
+      "book": {
+        "title": "The Night Before Christmas",
+        "author": "Jan Brett"
+      },
+      "recipe": {
+        "name": "Soft Gingerbread Cookies",
+        "ingredients": [],
+        "instructions": "",
+        "toddlerTask": "Let your toddler help mix the dough, press cutters, or sprinkle decorations—a joyful, hands-on tradition full of memory-making!"
+      }
+    },
+    {
+      "week": 52,
+      "title": "New Year’s Celebrations",
+      "placeToVisit": "Lincoln Children's Museum - or family celebration",
+      "activities": [
+        {
+          "name": "Time Capsule Making",
+          "description": ""
+        },
+        {
+          "name": "Save memories from the year",
+          "description": ""
+        },
+        {
+          "name": "Resolution Artwork",
+          "description": "Draw goals for new year"
+        },
+        {
+          "name": "Confetti Bottle Shakers",
+          "description": "Make noise makers"
+        },
+        {
+          "name": "Year in Review Book",
+          "description": ""
+        },
+        {
+          "name": "Photo book of favorite moments",
+          "description": ""
+        }
+      ],
+      "song": {
+        "title": "",
+        "artist": "Kool & the Gang"
+      },
+      "book": {
+        "title": "P. Bear’s New Year’s Party: A Counting Book",
+        "author": "Paul Owen Lewis"
+      },
+      "recipe": {
+        "name": "Confetti Popcorn",
+        "ingredients": [
+          "6 cups plain popcorn (air-popped or lightly salted)",
+          "1 cup mini marshmallows",
+          "¼ cup sprinkles (rainbow or metallic “confetti” style)",
+          "1 tablespoon butter",
+          "Optional: white chocolate chips or colored candy melts"
+        ],
+        "instructions": "Melt the butter in a large pot or microwave-safe bowl, then stir in mini marshmallows until melted and smooth. Quickly pour over the popcorn and stir to coat. Spread popcorn on a parchment-lined tray and immediately sprinkle with colorful sprinkles. Add melted white chocolate drizzle if desired. Let cool and serve in cups or cones for a party-ready treat!",
+        "toddlerTask": "Let your toddler toss in the sprinkles and help stir the mix—a fun and festive way to build kitchen confidence and celebrate big moments! Happy New Year! LINCOLN EDITION Browse this index of family-friendly Lincoln spots featured in the weekly themes. Use this key to find the best destinations by activity, weather, and toddler-friendliness. Nature Trails & Outdoor Exploration Location Description Icons Pioneers Park Nature Center Wildlife sanctuary offering trails, exhibits and programs Sunken Garden Beautiful gardens with seasonal flowers & scenic paths Spring Creek Prairie Native prairie preserve showcasing wildlife & natural landscapes Holmes Lake Scenic lake offering fishing, boating, trails & picnic areas Maxwell Arboretum Diverse tree collections & walking trails for nature lovers Pioneers Park Prairie Native prairie with trails, wildlife & educational exhibits Union Plaza Fountains Downtown plaza fountains, seating & gathering space Antelope Park Splash Pad Family-friendly splash pad with water play & picnic areas Nine-Mile Prairie Vast tallgrass prairie preserve with trails & wildlife viewing Antelope Park Urban park with trails, playgrounds & recreational activities Wilderness Park Extensive natural park with trails, wildlife & scenic landscapes Wildlife Safari Park Scenic drive-through park featuring owls and wildlife Prairie Pines Tranquil park featuring pine groves, trails & open spaces Icon Key ( No dollar sign = FREE admission Preschool + (3–5 years) $5-$10 per person Baby-friendly (0–12 months) Best in warm weather $10-$15 per person Toddler-safe (1–3 years) Great winter spot $15 + per person LINCOLN EDITION Browse this index of family-friendly Lincoln spots featured in the weekly themes. Use this key to find the best destinations by activity, weather, and toddler-friendliness. Location Indoor Play & Art Spaces Description Icons Lincoln Children’s Museum Offering a world of fun, learning & imagination for kids Little Beans Play Cafe Play, explore & make friends in this cozy cafe space Bee Me Sensory Gym Sensory adventures helping children move, explore & learn Museums & Educational Spots Location Icons Description Nebraska State Capitol Iconic landmark with stunning architecture, rich history Morrill Hall Museum showcasing Nebraska’s natural history treasures Lincoln Children’s Museum Fun world of learning, imagination for kids Hyde Observatory Explore stars, planets, night sky wonders Memorial Stadium Football venue, home of Cornhusker pride Mueller Tower Historic landmark with scenic city views Larsen Tractor & Power Museum Historic tractors showcasing Nebraska’s farming heritage International Quilt Museum Stunning quilts celebrating art, history, and culture Icon Key ( No dollar sign = FREE admission Preschool + (3–5 years) $5-$10 per person Baby-friendly (0–12 months) Best in warm weather $10-$15 per person Toddler-safe (1–3 years) Great winter spot $15 + per person LINCOLN EDITION Browse this index of family-friendly Lincoln spots featured in the weekly themes. Use this key to find the best destinations by activity, weather, and toddler-friendliness. Farms & Animal Encounters Location Description Icons Lincoln Children’s Zoo Interactive zoo fostering kids’ curiosity and wonder Roca Berry Farm Family-friendly seasonal farm activities The Little Red Farm Fun farm with joyful animals & outdoor adventures Libraries Location Description Icons Bennett Martin Library Local history center with programs for all ages Anderson Branch Library Creative space with regular toddler story times Bethany Branch Library Friendly library with story times and community events Eiseley Branch Library Neighborhood library with programs, community events Gere Branch Library Vibrant library with story times, study rooms, events South Branch Library Welcoming hub with services for all ages Walt Branch Library Community-focused library with programs for all ages Williams Branch Library Shared space for activities, crafts, and story times Icon Key ( No dollar sign = FREE admission Preschool + (3–5 years) $5-$10 per person Baby-friendly (0–12 months) Best in warm weather $10-$15 per person Toddler-safe (1–3 years) Great winter spot $15 + per person LINCOLN EDITION Browse this index of family-friendly Lincoln spots featured in the weekly themes. Use this key to find the best destinations by activity, weather, and toddler-friendliness. Seasonal & Festive Spots Location Description Iron Horse Park Historic railroad oasis with classic holiday charm Zoo Lights Powered by LES Magical light spectacle sparking holiday joy Star City Shores Drive - Tune into cheerful holiday music while taking in - Icons through Christmas Light Show thousands of festive holiday lights Boo at the Zoo Family-friendly zoo lights with animals and treats Lincoln Children’s Museum Festive museum experiences with learning and play Lee's Legendary Corn Maze Festive corn maze with surprises around corners Location Gardens & Food Destinations Description Icons UNL East Campus Campus farm where children learn, play & explore nature Maxwell Arboretum Peaceful gardens, flowers and magical paths SR Pumpkin & Flower Farm Pick pumpkins, explore flowers & enjoy festive farm fun Sunken Gardens Landscaped gardens with flowers, fountains & pathways Goldenrod Pastries Delicious handcrafted pastries & treats in a cozy setting Picnic Hill Orchard Magical orchard offering playful adventures and exploration ( No dollar sign = FREE admission Preschool + (3–5 years) $5-$10 per person Baby-friendly (0–12 months) Best in warm weather $10-$15 per person Toddler-safe (1–3 years) Great winter spot $15 + per person LINCOLN EDITION This index alphabetically lists all songs featured in the guide, along with their artists for easy searching on your preferred music platform. Listen anytime on our Wilder Seasons – 52 Weeks of Music Spotify playlist, where all of these timeless, family-friendly tracks are ready to enjoy together. Song Title Artist Apples, Peaches, Pumpkin Pie Jay & The Techniques At the Zoo Simon & Garfunkel Baby, It’s Cold Outside Ella Fitzgerald & Louis Jordan Blueberry Hill Fats Domino Blue Skies Ella Fitzgerald Born in the U.S.A. Bruce Springsteen Butterfly Andy Williams Capitol City Wilco Celebration Kool & the Gang Christmas Song Nat King Cole Country Pie Bob Dylan Crystal Blue Persuasion Tommy James & The Shondells Dinosaur Song Johnny Cash Dream a Little Dream of Me Ella Fitzgerald & Louis Armstrong Earth Day Every Day (Celebrate) John Denver Fields of Gold Sting Garden Song David Mallett Garden Song John Denver Glow Worm The Mills Brothers Week # LINCOLN EDITION This index alphabetically lists all songs featured in the guide, along with their artists for easy searching on your preferred music platform. Listen anytime on our Wilder Seasons – 52 Weeks of Music Spotify playlist, where all of these timeless, family-friendly tracks are ready to enjoy together. Song Title Artist Good Day Sunshine The Beatles Happy Trails Roy Rogers Here Comes the Sun The Beatles Home on the Range Pete Seeger Imagine John Lennon L-O-V-E Nat King Cole Love is Like a Butterfly Dolly Parton Love Train The O'Jays Moondance Van Morrison Moonshadow Yusuf/Cat Stevens Monster Mash Bobby Boris Pickett Morning Has Broken Cat Stevens The Nebraska Song Sawyer Brown Octopus's Garden The Beatles Over the Rainbow Judy Garland Prairie Lullaby Laura Veirs Pumpkin Pie The California Honeydrops Raindrops Keep Fallin' on My Head B.J. Thomas Splish Splash Bobby Darin Week # LINCOLN EDITION This index alphabetically lists all songs featured in the guide, along with their artists for easy searching on your preferred music platform. Listen anytime on our Wilder Seasons – 52 Weeks of Music Spotify playlist, where all of these timeless, family-friendly tracks are ready to enjoy together. Song Title Artist Week # Strawberry Fields Forever The Beatles Sugar, Sugar The Archies Take Me Home, Country Roads John Denver Take Me to the River Al Green Thank God I'm a Country Boy John Denver There Is No Place Like Nebraska Husker Fight Song Three Little Birds Bob Marley & The Wailers Wabash Cannonball Willie Nelson What a Wonderful World Louis Armstrong Wildflowers Tom Petty Winter Wonderland Tony Bennett Woodland The Paper Kites LINCOLN EDITION This index alphabetically lists all books featured in the guide, along with the authors for easy searching at your local library, bookstore or online. The week number on the right shows when each book appears in the guide. Book Title Author(s) Week # 8 Little Planets Chris Ferrie ABCs of Dinosaurs Sienna Nightingale A Nest Is Noisy Dianna Hutts Aston & Sylvia Long And Then It's Spring Julie Fogliano Bear Snores On Karma Wilson Because of an Acorn Adam Schaefer & Lola M. Schaefer The Berenstain Bears God Bless Our Country Mike Berenstain Big Red Barn Margaret Wise Brown Buffalo Music Tracey E. Fern Bug Hotel Libby Walden C is for Cornhusker: A Nebraska Alphabet Rajean Luebs Shepherd Diary of a Worm Doreen Cronin The Dot Peter H. Reynolds Every Color of Light: A Book about the Sky Hiroshi Osada Going West Laura Ingalls Wilder Good Night, Gorilla Peggy Rathmann Good Night Nebraska Adam Gamble How to Make an Apple Pie and See the World Marjorie Priceman In the Snow: Who's Been Here? Lindsay Barrett George Jamberry Bruce Degen LINCOLN EDITION This index alphabetically lists all books featured in the guide, along with the authors for easy searching at your local library, bookstore or online. The week number on the right shows when each book appears in the guide. Book Title Author(s) Week # Leaf Man Lois Ehlert The Little Blue Planet Anaïs La Rocca and Eve Grissinger The Little Engine That Could Watty Piper The Little Mouse, the Red Ripe Strawberry, Don & Audrey Wood and the Big Hungry Bear --------------------------------------------------- ---- The Little Yellow Leaf Carin Berger Locomotive Brian Floca Love Matt de la Peña N is for Nebraska Chelsie Turner The Night Before Christmas Jan Brett Out on the Prairie Donna M. Bateman Over and Under the Pond Kate Messner Owl Moon Jane Yolen P. Bear's New Year's Party: A Counting Book Paul Owen Lewis Plant the Tiny Seed Christie Matheson The Polar Express Chris Van Allsburg The Prairie That Nature Built Marybeth Lorbiecki Pumpkin Jack Will Hubbell Room on the Broom Julia Donaldson A Seed Is Sleepy Dianna Hutts Aston & Sylvia Long LINCOLN EDITION This index alphabetically lists all books featured in the guide, along with the authors for easy searching at your local library, bookstore or online. The week number on the right shows when each book appears in the guide. Book Title Author(s) Snowflake Bentley Jacqueline Briggs Martin Stellaluna Janell Cannon Thanks for Thanksgiving Julie Markes This Raindrop: Has a Billion Stories to Tell Linda Ragsdale Thunder Cake Patricia Polacco Up in the Garden and Down in the Dirt Kate Messner The Very Hungry Caterpillar Eric Carle Waiting for Wings Lois Ehlert Water Is Water: A Book About the Water Cycle Miranda Paul We're Going on a Leaf Hunt Steve Metzger Wildflower Melanie Brown and Sara Gillingham You Are Light Aaron Becker Week # Winter Reflections Winter slows our days and wraps us in quiet. It’s a season for cozy crafts, baking, and noticing the beauty in stillness. As you look back, what moments warmed your home and heart? Favorite family outing Most-loved indoor activity New skill or milestone your child reached A special seasonal recipe you made A tradition you’d like to keep next year Spring Reflections Spring awakens our senses and nudges us outdoors. It’s a season for fresh air, planting, and noticing the beauty of changes. As you look back, what moments bloomed from your home and heart? Favorite family outing Outdoor play your child enjoyed Something new or fascinating A special seasonal recipe you made A tradition you’d like to keep next year Summer Reflections Summer invites long days of warmth and adventure. It’s a season of exploration, gathering, and enjoying life to the fullest. As you reflect, what memories from your home and heart are ripest this season? Favorite family outing Outdoor play your child enjoyed Something new or fascinating you noticed in nature A special seasonal recipe you made A tradition you’d like to keep next year Autumn Reflections Autumn brings gathering together and slowing down to settle into the season’s rhythms. As you reflect, what memories from your home and heart are ripest this season? Favorite family outing Outdoor play your child enjoyed Something new or fascinating you noticed in nature A special seasonal recipe you made A tradition you’d like to keep next year Our Seasonal Journeys Looking back at all of the incredible local spots you visited and supported this year. Year: Date: Location: Our Seasonal Journeys Looking back at all of the incredible local spots you visited and supported this year. Year: Date: Location: Our Seasonal Journeys Looking back at all of the incredible local spots you visited and supported this year. Year: Date: Location:"
+      }
+    }
+  ]
+}
