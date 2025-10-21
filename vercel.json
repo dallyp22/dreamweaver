@@ -1,0 +1,14 @@
+{
+  "functions": {
+    "app/api/generate/route.ts": {
+      "maxDuration": 300
+    },
+    "app/api/status/[jobId]/route.ts": {
+      "maxDuration": 10
+    },
+    "app/api/download/[jobId]/[format]/route.ts": {
+      "maxDuration": 10
+    }
+  }
+}
+

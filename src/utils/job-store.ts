@@ -1,7 +1,9 @@
 import { promises as fs } from 'fs';
 import path from 'path';
 
-const JOB_STORE_DIR = process.env.VERCEL ? '/tmp/jobs' : './output/.jobs';
+const JOB_STORE_DIR = process.env.VERCEL 
+  ? '/tmp/jobs' 
+  : path.join(process.cwd(), 'output', '.jobs');
 
 // Ensure job store directory exists
 async function ensureJobStoreDir() {
