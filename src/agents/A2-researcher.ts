@@ -153,6 +153,35 @@ Return as JSON array of objects with this exact structure:
 ]`
 };
 
+const HIDDEN_GEMS_PROMPT = `Generate 12 HIDDEN GEM family-friendly places in {city} - lesser-known local spots perfect for families with toddlers (ages 0-5).
+
+Focus on UNIQUE, LOCAL, and LESSER-KNOWN venues that aren't the obvious big attractions:
+
+INCLUDE:
+- Local bakeries with kid-friendly spaces
+- Independent bookstores with story times
+- Art studios offering toddler classes
+- Play cafes with indoor play areas
+- Specialty shops (candle making, pottery, toy stores)
+- Community gardens or small urban farms
+- Family-owned ice cream or treat shops
+- Unique local toy stores or children's shops
+- Neighborhood libraries (not main branch)
+- Coffee shops with play spaces
+- Local farms or petting zoos
+- Family-owned restaurants with play areas
+
+DO NOT include: Chain stores, major museums already covered, McDonald's playplaces, generic venues
+
+Requirements:
+- Real venues that exist with full proper names
+- Brief description emphasizing what makes them special/unique
+- Note if they're year-round or seasonal
+- Include address if known
+- Mark as toddler-friendly with special amenities
+
+Return as JSON array with same structure as above.`;
+
 interface ClaudePlaceResponse {
   name: string;
   type: Place['type'];
@@ -230,11 +259,52 @@ export async function researchPlaces(city: CityMetadata): Promise<Place[]> {
     }
   }
 
+  // Research hidden gems (year-round unique spots)
+  logger.info(`Researching hidden gems and local favorites...`);
+
+  try {
+    const prompt = HIDDEN_GEMS_PROMPT.replace('{city}', `${city.name}, ${city.state}`);
+
+    const response = await anthropic.messages.create({
+      model: config.claudeModel,
+      max_tokens: 4096,
+      temperature: 0.8, // Higher temperature for more creative suggestions
+      system: "You are a local expert who knows the hidden gems and unique family spots that locals love but tourists might miss. Always return only valid JSON - no markdown formatting or explanations.",
+      messages: [
+        {
+          role: "user",
+          content: prompt
+        }
+      ]
+    });
+
+    const rawResponse = response.content[0].type === 'text' ? response.content[0].text : '';
+
+    logger.debug(`Claude response for hidden gems: ${rawResponse.substring(0, 200)}...`);
+
+    // Parse Claude's JSON response
+    const claudePlaces = parseClaudeResponse(rawResponse, 'spring'); // Use spring as placeholder
+
+    // Convert Claude places to our Place format and tag as year-round hidden gems
+    const places = claudePlacesToPlaces(claudePlaces, city).map(p => ({
+      ...p,
+      bestSeason: ['winter', 'spring', 'summer', 'fall'] as Season[], // Year-round
+      tags: [...p.tags, 'hidden-gem', 'local-favorite']
+    }));
+
+    allPlaces.push(...places);
+    logger.info(`Found ${places.length} hidden gems`);
+
+  } catch (error) {
+    logger.warn(`Hidden gems research failed: ${error}`);
+    // Continue even if hidden gems fail
+  }
+
   logger.info(`Research complete: ${allPlaces.length} total places found`);
 
   // Warn if we got fewer places than expected
-  if (allPlaces.length < 50) {
-    logger.warn(`Only found ${allPlaces.length} places, expected ~60. Results may be limited for this city.`);
+  if (allPlaces.length < 65) {
+    logger.warn(`Only found ${allPlaces.length} places, expected ~72. Results may be limited for this city.`);
   }
 
   return allPlaces;
